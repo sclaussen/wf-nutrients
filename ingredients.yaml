@@ -1,0 +1,11 @@
+- name: Jelly
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-jelly-concord-grape-175-oz-b074j9rhf8
+- name: Broccoli
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-broccoli-florets-b077lf2zmr
+  skip: true
+- name: Coconut Oil
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-refined-coconut-oil-14-fl-oz-b074h5bv9y
+  skip: true
+- name: Eggs
+  url: https://www.wholefoodsmarket.com/product/vital-farms-pasture-raised-large-18ct-eggs-36-oz-b01mzhdhvm
+  skip: true

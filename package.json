@@ -1,0 +1,20 @@
+{
+  "name": "wf-nutrients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nutrients.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "colors": "^1.4.0",
+    "debug": "^4.3.4",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "yaml": "^2.3.4"
+  }
+}
