@@ -1,3 +1,287 @@
+ingredients:
+
+- name: Coconut Oil
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-refined-coconut-oil-14-fl-oz-b074h5bv9y
+  consumptionUnit: tablespoon
+  consumptionGrams: 14
+  servingSize: 14
+
+- name: Avocado Oil
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-avocado-oil-blend-169-fl-oz-b0958r6dhy
+  consumptionUnit: tablespoon
+  consumptionGrams: 14
+  servingSize: 14
+  skip: true
+
+- name: Chicken
+  url:
+  skip: true
+
+- name: Beef
+  url:
+  skip: true
+
+- name: Lamb
+  url:
+  skip: true
+
+- name: Pork Chop
+  url:
+  skip: true
+
+- name: Salmon
+  url:
+  skip: true
+
+- name: Eggs
+  url: https://www.wholefoodsmarket.com/product/vital-farms-organic-large-eggs-36-oz-b089c8jt7b
+  note: Vital Farms Organic Large Eggs
+  skip: true
+
+- name: Arugula
+  url: https://www.wholefoodsmarket.com/product/whole-foods-market-organic-baby-arugula-b09zhx8y9v
+  skip: true
+
+- name: Spinach
+  url: https://www.wholefoodsmarket.com/product/whole-foods-market-organic-packaged-salads-baby-spinach-triplewashed-b074h54xmm
+  note: Substitute
+  skip: true
+
+- name: Romaine
+  consumptionGrams: 1
+  skip: true
+
+- name: Broccoli
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-broccoli-florets-b077lf2zmr
+  note: Substituted 365 Organic Broccoli Florets, ours does not have detailed nutrient information
+  skip: true
+
+- name: Cauliflower
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-cauliflower-florets-b077l7s52w
+  note: 365 version, ours does not have detailed nutrient information
+  skip: true
+
+- name: Mushrooms
+  url: https://www.wholefoodsmarket.com/product/produce-organic-white-mushroom-b07hfgvr6q
+  skip: true
+
+- name: Radish
+  url: tbd
+  skip: true
+
+- name: Avocado
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-bagged-hass-avocados-b000p6x4wa
+  skip: true
+
+- name: Mackerel
+  url: https://www.wholefoodsmarket.com/product/wild-planet-wild-mackerel-fillets-b00u2em4c6
+  consumptionUnit: can
+  consumptionGrams: 85
+  servingSize: 85
+  skip: true
+
+- name: Smoked Sardines
+  url: tbd
+  consumptionUnit: can
+  consumptionGrams: 85
+  servingSize: 85
+  skip: true
+
+- name: Sardines (Skinless/Boneless/Oil)
+  url: https://www.wholefoodsmarket.com/product/wild-planet-skinless-boneless-wild-sardine-fillets-in-olive-oil-b01lqb67lw
+  consumptionUnit: can
+  consumptionGrams: 85
+  servingSize: 85
+  skip: true
+
+- name: Wild Sardines (Water)
+  url: https://www.wholefoodsmarket.com/product/wild-planet-wild-sardines-in-water-44-oz-b013ork8p2
+  consumptionUnit: can
+  consumptionGrams: 85
+  servingSize: 85
+  skip: true
+
+- name: Wild Sardines (Lemon/Oil)
+  url: https://www.wholefoodsmarket.com/product/wild-planet-wild-sardines-in-extra-virgin-olive-oil-with-lemon-44-oz-b003h847pg
+  consumptionUnit: can
+  consumptionGrams: 85
+  servingSize: 85
+  skip: true
+
+- name: Tuna
+  url: https://www.wholefoodsmarket.com/product/wild-planet-wild-albacore-tuna-5-oz-b00nvk6k5k
+  consumptionUnit: can
+  consumptionGrams: 85
+  servingSize: 85
+  skip: true
+
+- name: Macadamia Nuts
+  url: https://www.wholefoodsmarket.com/product/aurora-natural-organic-raw-macadamia-nuts-6-oz-b07xvyq5rh
+  skip: true
+
+- name: Walnuts
+  url: https://www.wholefoodsmarket.com/product/whole-foods-market-organic-premium-walnut-halves-and-pieces-7-oz-b07812j5z2
+  skip: true
+
+- name: Pecans
+  url: https://www.wholefoodsmarket.com/product/aurora-natural-organic-pecans-7-oz-b002hqpam8
+  skip: true
+
+- name: Pistachio (Rosasted/Salted)
+  url: https://www.wholefoodsmarket.com/product/wonderful-pistachios-roasted-shelled-pistachios-12-oz-b00biz2nlu
+  skip: true
+
+- name: Cashews
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-raw-cashews-10-oz-b07gl9gnz7
+  skip: true
+
+- name: Peanuts (Unsalted)
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-peanuts-dry-roasted-unsalted-16-oz-b07qmw5y77
+  skip: true
+
+- name: Pumpkin Seeds
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-pumpkin-seeds-8-oz-b07gl6jlzy
+  skip: true
+
+- name: Fish Oil
+  url: https://www.wholefoodsmarket.com/product/carlson-labs-lemon-fish-oil-omega-3-liquid-169-fl-oz-b001lf39ro
+  skip: true
+
+- name: String Cheese
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-mozzarella-string-cheese-1-oz-sticks-b07fwc98xk
+  note: 365 brand
+  consumptionUnit: piece
+  consumptionGrams: 28
+  servingSize: 28
+  skip: true
+
+- name: Babybel Cheese
+  url: https://www.wholefoodsmarket.com/product/babybel-mini-originial-45-oz-42-oz-b0bvdcwshl
+  consumptionUnit: piece
+  consumptionGrams: 21
+  servingSize: 21
+  skip: true
+
+- name: Dubliner Cheese
+  url: https://www.wholefoodsmarket.com/product/kerrygold-grassfed-dubliner-irish-cheese-7oz-b001e96kuu
+  skip: true
+
+- name: Tillamook Cheddar Cheese
+  url:
+  consumptionUnit: piece
+  consumptionGrams: 21
+  servingSize: 21
+  skip: true
+
+- name: Emmi Roth
+  url:
+  skip: true
+
+- name: Emmi Le Gruyere
+  url: https://www.wholefoodsmarket.com/product/emmi-le-gruyere-6-oz-b07813qzdc
+  skip: true
+
+- name: Manchego
+  url:
+  skip: true
+
+- name: Mitica
+  url:
+  skip: true
+
+- name: Feta Cheese
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-crumbled-feta-cheese-6-oz-b074jd6hh5
+  skip: true
+
+- name: Parmesan
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-grated-parmesan-cheese-5-oz-b074h5srzx
+  skip: true
+
+- name: Mexican Blend
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-shredded-mexican-blend-8-oz-b07vm5l943
+  skip: true
+
+- name: Cheddar Slice
+  url:
+  consumptionUnit: slice
+  consumptionGrams: 23
+  servingSize: 23
+  skip: true
+
+- name: Swiss Slice
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-swiss-cheese-slices-10-slices-b07nrcgwys
+  consumptionUnit: slice
+  consumptionGrams: 23
+  servingSize: 23
+  skip: true
+
+- name: Provolone Slice
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-provolone-cheese-slices-8-oz-b07vkj7tw9
+  consumptionUnit: slice
+  consumptionGrams: 23
+  servingSize: 23
+  skip: true
+
+- name: Blackberries
+  url: https://www.wholefoodsmarket.com/product/driscolls-organic-blackberries-b07glpfps4
+  skip: true
+
+- name: Blueberries
+  url: https://www.wholefoodsmarket.com/product/driscolls-blueberries-b07yfdqxq9
+  skip: true
+
+- name: Raspberries
+  url: https://www.wholefoodsmarket.com/product/produce-organic-raspberries-b08vld2xr7
+  skip: true
+
+- name: Flackers (Rosermary)
+  url: https://www.wholefoodsmarket.com/product/doctor-in-the-kitchen-organic-rosemary-flackers-5-oz-b0078dq85s
+  skip: true
+
+- name: Peanut Butter
+  url: https://www.wholefoodsmarket.com/product/once-again-nut-butter-organic-creamy-peanut-butter-16-oz-b0046hnrps
+  skip: true
+
+- name: Sunflower Butter
+  url: https://www.wholefoodsmarket.com/product/once-again-nut-butter-unsweetened-salt-free-organic-sunflower-seed-butter-16-oz-b008k4htn4
+  skip: true
+
+- name: Jelly (Apricot)
+  url: https://www.wholefoodsmarket.com/product/crofters-organic-apricot-fruit-spread-10-oz-b000glg1xi
+  note: Crofters Organic Apricot Fruit Spread
+  skip: true
+
+- name: Jelly (Strawberry)
+  url: https://www.wholefoodsmarket.com/product/crofters-organic-strawberry-premium-fruit-spread-165-oz-b004si9nhq
+  note: Crofters Organic Strawberry Premium Fruit Spread
+  skip: true
+
+- name: Jelly (Raspberry)
+  url: https://www.wholefoodsmarket.com/product/crofters-organic-raspberry-fruit-spreadcrofters-organic-just-fruit-raspberry-spread-10-oz-b000uxyzi0
+  note: Crofters Organic Raspberry Fruit SpreadCrofters Organic Just Fruit Raspberry Spread
+  skip: true
+
+- name: Bread
+  url:
+  note: Ezekiel
+  skip: true
+
+- name: Tortillos
+  url: https://www.wholefoodsmarket.com/product/food-for-life-organic-ezekiel-49-flax-tortillas-12-oz-b08n2czscm
+  skip: true
+
+- name: Milk
+  url:
+  note: Organic Valley Whole Grassmilk
+  skip: true
+
+
+nutrients:
+- name: calories
+  wf_key: calories
+  unit: calories
+  required: true
+
 - name: fat
   wf_key: totalFat
   unit: g
@@ -39,7 +323,6 @@
 - name: sugarAlcohol
   wf_key: sugarAlcohol
   unit: g
-
 - name: protein
   wf_key: protein
   unit: g
@@ -48,12 +331,21 @@
 - name: zinc
   wf_key: zinc
   unit: mg
+
 - name: vitaminK
   wf_key: vitaminK
   unit: mcg
+  alternate_unit:
+    unit: µg
+    conversion_factor: 1
+
 - name: vitaminE
   wf_key: vitaminE
   unit: IU
+  alternate_unit:
+    unit: mg
+    conversion_factor: 2.22
+
 - name: vitaminD
   wf_key: vitaminD
   unit: IU
@@ -68,16 +360,25 @@
   unit: mg
 - name: vitaminB12
   wf_key: vitaminB12
-  unit: mg
+  unit: mcg
+  alternate_unit:
+    unit: µg
+    conversion_factor: 1
 - name: vitaminA
   wf_key: vitaminA
   unit: IU
+  alternate_unit:
+    unit: mcg
+    conversion_factor: 1.2
 - name: thiamin
   wf_key: thiamin
   unit: mg
 - name: selenium
   wf_key: selenium
   unit: mcg
+  alternate_unit:
+    unit: µg
+    conversion_factor: 1
 - name: riboflavin
   wf_key: riboflavin
   unit: mg
@@ -105,9 +406,15 @@
 - name: folicAcid
   wf_key: folicAcid
   unit: mcg
+  alternate_unit:
+    unit: µg
+    conversion_factor: 1
 - name: folate
   wf_key: folate
   unit: mcg
+  alternate_unit:
+    unit: µg
+    conversion_factor: 1
 - name: copper
   wf_key: copper
   unit: mg
