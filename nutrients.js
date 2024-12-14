@@ -27,7 +27,20 @@ async function main() {
         }
 
         // Retrieve the URL from whole foods
-        let body = (await curl.get(ingredient.url)).body
+        // let body = (await curl.get(ingredient.url)).body
+        let body = JSON.parse(fs.readFileSync('./avocado.json', 'utf8'));
+        const mappedData = _.map(body.foodNutrients, item => ({
+            name: fdNameMap(item.nutrient.name),
+            amount: item.amount,
+            unit: item.nutrient.unitName,
+        }));
+        p4(mappedData);
+
+        // for (let nutrient of nutrients) {
+        // }
+
+
+        process.exit(1);
 
 
         // Remove a bunch of noise in the response
@@ -127,14 +140,17 @@ async function main() {
             data.push({ name: 'consumptionUnit', value: ingredient.consumptionUnit });
             data.push({ name: 'consumptionGrams', value: ingredient.consumptionGrams });
             data.push({ name: 'servingSize', value: ingredient.servingSize })
-        } else {
-            if (wf.servingInfo.secondaryServingSizeUom.toLowerCase() !== 'g') {
-                console.error('ERROR: Unknown serving size unit of measure for ' + nutrient.name + ': ' + wf.servingInfo);
-                process.exit(1)
-            }
+        } else if (_.has(wf.servingInfo, 'secondaryServingSizeUom') && wf.servingInfo.secondaryServingSizeUom.toLowerCase() === 'g') {
             data.push({ name: 'consumptionUnit', value: 'gram' });
             data.push({ name: 'consumptionGrams', value: 1 });
             data.push({ name: 'servingSize', value: wf.servingInfo.secondaryServingSize })
+        } else if (_.has(ingredient, 'alternate_unit') && ingredient.alternate_unit.unit === wf.servingInfo.servingSizeUom) {
+            data.push({ name: 'consumptionUnit', value: 'gram' });
+            data.push({ name: 'consumptionGrams', value: 1 });
+            data.push({ name: 'servingSize', value: wf.servingInfo.servingSize * ingredient.alternate_unit.conversion_factor })
+        } else {
+            console.error('ERROR: Unknown serving size unit of measure for ' + nutrient.name + ': ' + wf.servingInfo);
+            process.exit(1)
         }
 
 
@@ -143,8 +159,8 @@ async function main() {
 
             let wfNutrient = _.find(wf.nutritionElements, { key: nutrient.wf_key })
             if (!wfNutrient) {
-                // console.log('Could not find: ' + nutrient.wf_key);
                 if (nutrient.required) {
+                    console.log('Could not find required nutrient: ' + nutrient.wf_key);
                     process.exit(1);
                 }
                 continue
@@ -176,7 +192,7 @@ async function main() {
                 }
             }
 
-            data.push({ name: nutrient.name, value: amount })
+            data.push({ name: nutrient.name, value: parseFloat(amount) })
         }
 
 
@@ -185,6 +201,17 @@ async function main() {
         let fiber = _.find(data, { name: 'fiber' }) || { value: 0 };
         if (carbs) {
             data.push({ name: 'netCarbs', value: carbs.value - fiber.value })
+        }
+
+
+        let transFat = _.find(data, { name: 'transFat' });
+        if (transFat && transFat.value > 0) {
+            warnings.push('transFat ' + transFat.value);
+        }
+
+        let addedSugar = _.find(data, { name: 'addedSugar' });
+        if (addedSugar && addedSugar.value > 0) {
+            warnings.push('addedSugar ' + addedSugar.value);
         }
 
 
@@ -240,15 +267,15 @@ function serialize(data) {
     y(data, 'calories')
 
     y(data, 'fat')
-    y(data, 'saturatedFat')
-    y(data, 'transFat')
-    y(data, 'polyunsaturatedFat')
-    y(data, 'monounsaturatedFat')
+    // y(data, 'saturatedFat')
+    // y(data, 'transFat')
+    // y(data, 'polyunsaturatedFat')
+    // y(data, 'monounsaturatedFat')
 
     y(data, 'cholesterol')
     y(data, 'sodium')
 
-    y(data, 'carbohydrates')
+    // y(data, 'carbohydrates')
     y(data, 'fiber')
     y(data, 'sugar')
     y(data, 'addedSugar')
@@ -284,7 +311,7 @@ function serialize(data) {
     y(data, 'consumptionUnit')
     y(data, 'consumptionGrams')
 
-    // y(data, 'warnings')
+    y(data, 'warnings')
 }
 
 
@@ -302,6 +329,10 @@ function y(list, name) {
             console.log(prefix + '- ' + item)
         }
         return
+    }
+
+    if (stanza.value === 0) {
+        return;
     }
 
     if (typeof stanza.value === 'number') {

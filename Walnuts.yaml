@@ -1,0 +1,251 @@
+name: Organic Premium Walnut Halves And Pieces, 7 oz
+asin: B07812J5Z2
+id: '65585200380'
+store: 10225
+detailUri: product/whole-foods-market-organic-premium-walnut-halves-and-pieces-b07812j5z2
+brand:
+  name: Whole Foods Market
+  slug: whole-foods-market
+categories:
+  name: Snacks, Chips, Salsas u0026 Dips
+  slug: snacks-chips-salsas-dips
+  childCategory:
+    name: Nuts, Seeds u0026 Dried Fruit
+    slug: nuts-seeds-dried-fruit
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher by ok
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae69_0655852003800-glamor-front-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-ckso-394408.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae69_0655852003800-glamor-front-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-ckso-394408.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae69_0655852003800-glamor-front-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-ckso-394408.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6a_0655852003800-glamor-front-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-f7es-888688.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6a_0655852003800-glamor-front-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-f7es-888688.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6a_0655852003800-glamor-front-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-f7es-888688.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6b_0655852003800-glamor-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-3vwe-047706.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6b_0655852003800-glamor-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-3vwe-047706.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6b_0655852003800-glamor-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-3vwe-047706.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6c_0655852003800-glamor-back-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-5s2x-606745.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6c_0655852003800-glamor-back-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-5s2x-606745.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6c_0655852003800-glamor-back-right-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-5s2x-606745.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6d_0655852003800-glamor-back-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-uvmo-251372.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6d_0655852003800-glamor-back-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-uvmo-251372.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6d_0655852003800-glamor-back-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-uvmo-251372.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6e_0655852003800-glamor-back-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-sm52-489035.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6e_0655852003800-glamor-back-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-sm52-489035.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6e_0655852003800-glamor-back-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-sm52-489035.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6f_0655852003800-glamor-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-5vpr-903204.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6f_0655852003800-glamor-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-5vpr-903204.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae6f_0655852003800-glamor-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-5vpr-903204.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae70_0655852003800-glamor-front-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-sl4m-856563.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae70_0655852003800-glamor-front-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-sl4m-856563.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae70_0655852003800-glamor-front-left-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-sl4m-856563.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae71_0655852003800-glamor-top-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-k9yk-367032.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae71_0655852003800-glamor-top-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-k9yk-367032.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae71_0655852003800-glamor-top-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-k9yk-367032.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae72_0655852003800-glamor-bottom-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-26rh-181718.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae72_0655852003800-glamor-bottom-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-26rh-181718.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/635c00d6baa8eb130a15ae72_0655852003800-glamor-bottom-2022-10-17t13-38-14-iphone-x-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-26rh-181718.jpg
+ingredients:
+  - 'Ingredients: Organic Walnuts (Not Roasted).'
+allergens:
+  - Tree Nuts
+certifications:
+  - name: Certified Kosher
+    certifiers:
+      - ok
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+      - '[NOFA-NY] NOFA-NY Certified Organic, LLC'
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 25.64
+    perServing: 20
+    fullDvp: 78
+    defaultDvpDisplay: '26'
+    perServingDisplay: '20'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 1
+    perServingDisplay: '1'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 10
+    perServing: 2
+    fullDvp: 20
+    defaultDvpDisplay: '10'
+    perServingDisplay: '2'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 5
+    fullDvp: 50
+    perServingDisplay: '5'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 2
+    perServing: 94
+    fullDvp: 4700
+    defaultDvpDisplay: '2'
+    perServingDisplay: '94'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 6
+    perServing: 1.1
+    fullDvp: 18
+    defaultDvpDisplay: '6'
+    perServingDisplay: '1.1'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 7.14
+    perServing: 2
+    fullDvp: 28
+    defaultDvpDisplay: '7'
+    perServingDisplay: '2'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 1.45
+    perServing: 4
+    fullDvp: 275
+    defaultDvpDisplay: '1.5'
+    perServingDisplay: '4'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 10
+    perServing: 200
+    fullDvp: 2000
+    defaultDvpDisplay: '10'
+    perServingDisplay: '200'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2
+    perServing: 26
+    fullDvp: 1300
+    defaultDvpDisplay: '2'
+    perServingDisplay: '26'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 0.25
+  servingSizeUom: cup
+  servingSizeDisplay: 1/4
+  secondaryServingSize: 30
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '30'
+  totalSize: 7
+  totalSizeUom: oz
+  secondaryTotalSize: 198
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 7
+  servingsPerContainerDisplay: '7'
+isAlcoholic: false
+rank: 1191
+related:
+  - name: Walnut Halves And Pieces, 16 oz
+    slug: 365-by-whole-foods-market-walnut-halves-and-pieces-16-oz-b074vfq3jm
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/642339a9b88392e78eced6d9_2023-03-28_19-02-42_front.main.jpg
+    store: 10225
+  - name: Organic Walnut Halves u0026 Pieces, 10 oz
+    slug: 365-by-whole-foods-market-organic-walnut-halves-pieces-10-oz-b07glt4z49
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/642327a1b883924c75ced18d_2023-03-28_17-45-38_front.main.jpg
+    store: 10225

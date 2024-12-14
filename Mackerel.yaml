@@ -1,0 +1,222 @@
+name: Wild Mackerel Fillets
+asin: B00U2EM4C6
+id: '82969600126'
+store: 10225
+detailUri: product/wild-planet-wild-mackerel-fillets-b00u2em4c6
+brand:
+  name: Wild Planet
+  slug: wild-planet
+categories:
+  name: Seafood
+  slug: seafood
+  childCategory:
+    name: Fish
+    slug: fish
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher by OU
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b18_dld-0829696001265-glamor-front-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-70y0-353549-1628627071530.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b18_dld-0829696001265-glamor-front-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-70y0-353549-1628627071530.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b18_dld-0829696001265-glamor-front-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-70y0-353549-1628627071530.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08467833178ee991b19_dld-0829696001265-glamor-right-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-xr81-265471-1628627071416.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08467833178ee991b19_dld-0829696001265-glamor-right-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-xr81-265471-1628627071416.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08467833178ee991b19_dld-0829696001265-glamor-right-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-xr81-265471-1628627071416.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b15_dld-0829696001265-glamor-back-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-9aur-255514-1628627071417.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b15_dld-0829696001265-glamor-back-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-9aur-255514-1628627071417.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b15_dld-0829696001265-glamor-back-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-9aur-255514-1628627071417.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08467833178ee991b1a_dld-0829696001265-glamor-left-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-z7a8-955918-1628627071781.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08467833178ee991b1a_dld-0829696001265-glamor-left-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-z7a8-955918-1628627071781.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08467833178ee991b1a_dld-0829696001265-glamor-left-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-z7a8-955918-1628627071781.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b12_dld-0829696001265-glamor-top-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-8wii-061866-1628627071779.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b12_dld-0829696001265-glamor-top-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-8wii-061866-1628627071779.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b12_dld-0829696001265-glamor-top-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-8wii-061866-1628627071779.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b13_dld-0829696001265-glamor-bottom-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-0ms0-469181-1628627071778.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b13_dld-0829696001265-glamor-bottom-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-0ms0-469181-1628627071778.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112e08367833178ee991b13_dld-0829696001265-glamor-bottom-2021-05-26t02-55-19-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-0ms0-469181-1628627071778.jpg
+ingredients:
+  - >-
+    Ingredients: Mackerel (Scomber Colias), Organic Extra Virgin Olive Oil, Sea
+    Salt.
+additives:
+  - Sea Salt
+allergens:
+  - Fish
+certifications:
+  - name: Certified Kosher
+    certifiers:
+      - OU
+  - name: Certified Non-GMO
+    certifiers:
+      - Non-GMO Project
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 8
+    perServing: 1.6
+    fullDvp: 20
+    defaultDvpDisplay: '8'
+    perServingDisplay: '1.6'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 14.1
+    perServing: 11
+    fullDvp: 78
+    defaultDvpDisplay: '14'
+    perServingDisplay: '11'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 13.91
+    perServing: 320
+    fullDvp: 2300
+    defaultDvpDisplay: '14'
+    perServingDisplay: '320'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 12.5
+    perServing: 2.5
+    fullDvp: 20
+    defaultDvpDisplay: '13'
+    perServingDisplay: '2.5'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 21
+    fullDvp: 50
+    perServingDisplay: '21'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 6
+    perServing: 282
+    fullDvp: 4700
+    defaultDvpDisplay: '6'
+    perServingDisplay: '282'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.72
+    fullDvp: 18
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.72'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 28
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 10
+    perServing: 30
+    fullDvp: 300
+    defaultDvpDisplay: '10'
+    perServingDisplay: '30'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 9
+    perServing: 180
+    fullDvp: 2000
+    defaultDvpDisplay: '9'
+    perServingDisplay: '180'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 1300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 3
+  servingSizeUom: oz drained
+  servingSizeDisplay: '3'
+  secondaryServingSize: 85
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '85'
+  totalSize: 4.4
+  totalSizeUom: oz
+  secondaryTotalSize: 125
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 1
+  servingsPerContainerDisplay: '1'
+isAlcoholic: false
+rank: 7149
+related:
+  - name: Halibut Fillet
+    slug: seafood-halibut-fillet-b077zzcqjf
+    brand: SEAFOOD
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/61e84e3c5e12a1566b9be49b_00292107000001-2020-cen-ecommerce-seafood-halibutfillet.jpg
+    store: 10225
+  - name: Tilapia Fillet
+    slug: 365-by-whole-foods-market-tilapia-fillet-b07nrdrlrl
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b787527ac6613631003b1_dld-0099482477882-glamor-front-2022-03-10t19-23-49-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-ria2-031855-1649113201558.jpg
+    store: 10225

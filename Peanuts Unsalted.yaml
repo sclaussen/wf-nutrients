@@ -1,0 +1,218 @@
+name: Peanuts, Dry Roasted u0026 Unsalted, 16 oz
+asin: B07QMW5Y77
+id: '9948248223'
+store: 10225
+detailUri: product/365-by-whole-foods-market-peanuts-dry-roasted-unsalted-b07qmw5y77
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Snacks, Chips, Salsas u0026 Dips
+  slug: snacks-chips-salsas-dips
+  childCategory:
+    name: Nuts, Seeds u0026 Dried Fruit
+    slug: nuts-seeds-dried-fruit
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher (n/a) by Orthodox Union (OU)
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233357b88392a6f3ced4eb_2023-03-28_18-35-21_front.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233357b88392a6f3ced4eb_2023-03-28_18-35-21_front.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233357b88392a6f3ced4eb_2023-03-28_18-35-21_front.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233369b8839210d4ced4f3_2023-03-28_18-35-39_back.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233369b8839210d4ced4f3_2023-03-28_18-35-39_back.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233369b8839210d4ced4f3_2023-03-28_18-35-39_back.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34637c32f531c3f363729_2023-03-28_07-36-27_ingredients.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34637c32f531c3f363729_2023-03-28_07-36-27_ingredients.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34637c32f531c3f363729_2023-03-28_07-36-27_ingredients.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34636c32f531c3f363727_2023-03-28_07-36-36_factPanel.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34636c32f531c3f363727_2023-03-28_07-36-36_factPanel.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34636c32f531c3f363727_2023-03-28_07-36-36_factPanel.main.jpg
+ingredients:
+  - 'Ingredients: Dry Roasted Peanuts'
+allergens:
+  - Peanuts
+certifications:
+  - name: Certified Non-GMO
+    certifiers:
+      - The Non GMO Project
+  - name: Certified Kosher
+    certifiers:
+      - Orthodox Union (OU)
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 17.95
+    perServing: 14
+    fullDvp: 78
+    defaultDvpDisplay: '18'
+    perServingDisplay: '14'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 1
+    perServingDisplay: '1'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 10
+    perServing: 2
+    fullDvp: 20
+    defaultDvpDisplay: '10'
+    perServingDisplay: '2'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 7
+    fullDvp: 50
+    perServingDisplay: '7'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 4
+    perServing: 180
+    fullDvp: 4700
+    defaultDvpDisplay: '4'
+    perServingDisplay: '180'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 2.5
+    perServingDisplay: '2.5'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 7
+    perServingDisplay: '7'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.4
+    fullDvp: 18
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.4'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 7.14
+    perServing: 2
+    fullDvp: 28
+    defaultDvpDisplay: '7'
+    perServingDisplay: '2'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 2.18
+    perServing: 6
+    fullDvp: 275
+    defaultDvpDisplay: '2.2'
+    perServingDisplay: '6'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 8
+    perServing: 160
+    fullDvp: 2000
+    defaultDvpDisplay: '8'
+    perServingDisplay: '160'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 1300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: oz
+  secondaryServingSize: 28
+  secondaryServingSizeUom: g
+  totalSize: 16
+  totalSizeUom: oz
+  secondaryTotalSize: 454
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 16
+  servingsPerContainerDisplay: '16'
+isAlcoholic: false
+rank: 2665
+related:
+  - name: Organic Almonds, Dry Roasted u0026 Unsalted, 10 oz
+    slug: >-
+      365-by-whole-foods-market-organic-almonds-dry-roasted-unsalted-10-oz-b086hk7tc7
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64245c05b04dff6b1edf06f1_2023-03-29_15-41-13_front.main.jpg
+    store: 10225
+  - name: Unsalted Dry Roasted Pistachio Kernels, 10 oz
+    slug: >-
+      365-by-whole-foods-market-unsalted-dry-roasted-pistachio-kernels-10-oz-b09tm34cd3
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64714bdccdc9582316aca50d_2023-07-22_04-58-20_front.main.jpg
+    store: 10225

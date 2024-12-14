@@ -1,0 +1,135 @@
+name: Lemon Fish Oil Omega 3 Liquid, 16.9 fl oz
+asin: B001LF39RO
+id: '8839501545'
+store: 10225
+detailUri: product/carlson-labs-lemon-fish-oil-omega-3-liquid-b001lf39ro
+brand:
+  name: Carlson Labs
+  slug: carlson-labs
+categories:
+  name: Supplements
+  slug: supplements
+  childCategory:
+    name: Specialty Supplements
+    slug: specialty-supplements
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd65f_0088395015458-glamor-front-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-7vdp-615573.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd65f_0088395015458-glamor-front-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-7vdp-615573.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd65f_0088395015458-glamor-front-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-7vdp-615573.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd660_0088395015458-glamor-right-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-5nex-744261.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd660_0088395015458-glamor-right-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-5nex-744261.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd660_0088395015458-glamor-right-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-5nex-744261.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd661_0088395015458-glamor-back-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-nrj5-428487.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd661_0088395015458-glamor-back-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-nrj5-428487.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd661_0088395015458-glamor-back-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-nrj5-428487.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd662_0088395015458-glamor-left-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-brq0-102888.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd662_0088395015458-glamor-left-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-brq0-102888.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd662_0088395015458-glamor-left-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-brq0-102888.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd663_0088395015458-glamor-top-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-gu6y-888028.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd663_0088395015458-glamor-top-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-gu6y-888028.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd663_0088395015458-glamor-top-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-gu6y-888028.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd664_0088395015458-glamor-bottom-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-ewrp-282808.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd664_0088395015458-glamor-bottom-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-ewrp-282808.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6424d774da16512433cdd664_0088395015458-glamor-bottom-2023-03-13t14-51-48-iphone-7-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-ewrp-282808.jpg
+ingredients:
+  - 'Other Ingredients: Natural Flavors.'
+  - >-
+    Contains u003c0.5% of the Following: Antioxidant Blend (Natural Mixed
+    Tocopherols, Rosemary Extract).
+  - Contains Fish (Anchovy, Sardine, Mackerel).
+additives:
+  - Natural Flavors
+  - Rosemary Extract
+  - Natural Mixed Tocopherols
+allergens:
+  - Fish
+certifications:
+  - name: Certified Non-GMO
+    certifiers:
+      - IGEN Non-GMO Tested Cert
+nutritionGroup: adult
+nutritionLabelFormat: current
+nutritionElements:
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 6.92
+    perServing: 4.5
+    fullDvp: 65
+    defaultDvpDisplay: '7'
+    perServingDisplay: '4.5'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 5
+    perServing: 1
+    fullDvp: 20
+    defaultDvpDisplay: '5'
+    perServingDisplay: '1'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    fullDvp: 300
+    defaultDvpDisplay: 7%
+    perServingDisplay: 20mg
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 2
+    perServing: 40
+    fullDvp: 2000
+    defaultDvpDisplay: '2'
+    perServingDisplay: '40'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: teaspoon
+  servingSizeDisplay: '1'
+  secondaryServingSize: 5
+  secondaryServingSizeUom: ml
+  secondaryServingSizeDisplay: '5'
+  totalSize: 16.9
+  totalSizeUom: fl oz
+  secondaryTotalSize: 500
+  secondaryTotalSizeUom: ml
+  servingsPerContainer: 100
+  servingsPerContainerDisplay: '100'
+isAlcoholic: false
+rank: 90000000
+related:
+  - name: Lemon Zest Omega Swirl Fish Oil, 16 oz
+    slug: barleans-lemon-zest-omega-swirl-fish-oil-16-oz-b002vlz8bw
+    brand: Barlean's
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64f9e5bd5d63025c428ea396_0705875600040-glamor-front-2023-08-29t12-58-48-iphone-x-quality-90-1-34-1-user-61f81fa9ba341c6ee137962b-gr38-088046.jpg
+    store: 10225
+  - name: Lemon Omega 3 Liquid, 8 fluid ounce
+    slug: whole-foods-market-lemon-omega-3-liquid-8-fluid-ounce-b07jyrm6g2
+    brand: Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5c12f1983d4daf04b2654f82_productdataa00099482475888-c1n1.jpg
+    store: 10225

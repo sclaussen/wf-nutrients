@@ -1,0 +1,304 @@
+name: Bagged Hass Avocados
+asin: B000P6X4WA
+id: '9948249177'
+store: 10225
+detailUri: product/365-by-whole-foods-market-hass-avocados-b000p6x4wa
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Fruit
+    slug: fresh-fruit
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ef4e42b25dd9145766f6073_00099482491772-c1c1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ef4e42b25dd9145766f6073_00099482491772-c1c1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ef4e42b25dd9145766f6073_00099482491772-c1c1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b72fe1f8d1478712d_2023-08-18_19-19-57_front.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b72fe1f8d1478712d_2023-08-18_19-19-57_front.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b72fe1f8d1478712d_2023-08-18_19-19-57_front.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b5dbedc8d2f469805_2023-08-18_19-19-58_top.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b5dbedc8d2f469805_2023-08-18_19-19-58_top.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b5dbedc8d2f469805_2023-08-18_19-19-58_top.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b5dbedc8d2f46983b_2023-08-18_19-19-59_bottom.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b5dbedc8d2f46983b_2023-08-18_19-19-59_bottom.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b5dbedc8d2f46983b_2023-08-18_19-19-59_bottom.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45bc0342d8d151ca145_2023-08-18_19-19-58_front-left.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45bc0342d8d151ca145_2023-08-18_19-19-58_front-left.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45bc0342d8d151ca145_2023-08-18_19-19-58_front-left.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b72fe1f8d14787206_2023-08-18_19-19-58_front-right.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b72fe1f8d14787206_2023-08-18_19-19-58_front-right.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45b72fe1f8d14787206_2023-08-18_19-19-58_front-right.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45d72fe1f8d147872e4_2023-08-18_19-19-59_left.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45d72fe1f8d147872e4_2023-08-18_19-19-59_left.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45d72fe1f8d147872e4_2023-08-18_19-19-59_left.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45e72fe1f8d147873c2_2023-08-18_19-20-00_back.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45e72fe1f8d147873c2_2023-08-18_19-20-00_back.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45e72fe1f8d147873c2_2023-08-18_19-20-00_back.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45e5dbedc8d2f469919_2023-08-18_19-20-00_right.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45e5dbedc8d2f469919_2023-08-18_19-20-00_right.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64dfc45e5dbedc8d2f469919_2023-08-18_19-20-00_right.main.jpg
+ingredients:
+  - Hass Avocado
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    fullDvp: 11
+    defaultDvpDisplay: '6'
+    perServingDisplay: '0.64'
+  - key: vitaminK
+    name: Vitamin K
+    uom: mcg
+    fullDvp: 120
+    defaultDvpDisplay: '20'
+    perServingDisplay: '21'
+  - key: vitaminE
+    name: Vitamin E
+    uom: mg
+    fullDvp: 15
+    defaultDvpDisplay: '20'
+    perServingDisplay: '3.1'
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    fullDvp: 90
+    defaultDvpDisplay: '10'
+    perServingDisplay: '10'
+  - key: vitaminB6
+    name: Pyridoxine (Vitamin B6)
+    uom: mg
+    fullDvp: 1.7
+    defaultDvpDisplay: '15'
+    perServingDisplay: '0.26'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: mcg
+    fullDvp: 2.4
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: mcg
+    fullDvp: 900
+    defaultDvpDisplay: '15'
+    perServingDisplay: '146'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    fullDvp: 78
+    defaultDvpDisplay: '19'
+    perServingDisplay: '15'
+  - key: thiamin
+    name: Thiamine (Vitamin B1)
+    uom: mg
+    fullDvp: 1.2
+    defaultDvpDisplay: '6'
+    perServingDisplay: '0.07'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServingDisplay: '0.66'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    fullDvp: 2300
+    defaultDvpDisplay: '0.3'
+    perServingDisplay: '7'
+  - key: selenium
+    name: Selenium
+    uom: mcg
+    fullDvp: 55
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.4'
+  - key: saturatedFat
+    name: Saturated Fat
+    uom: g
+    fullDvp: 20
+    defaultDvpDisplay: '11'
+    perServingDisplay: '2.1'
+  - key: riboflavin
+    name: Riboflavin (Vitamin B2)
+    uom: mg
+    fullDvp: 1.3
+    defaultDvpDisplay: '10'
+    perServingDisplay: '0.13'
+  - key: protein
+    name: Protein
+    uom: g
+    fullDvp: 50
+    perServingDisplay: '2'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    fullDvp: 4700
+    defaultDvpDisplay: '10'
+    perServingDisplay: '485'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServingDisplay: '1.816'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    fullDvp: 1250
+    defaultDvpDisplay: '4'
+    perServingDisplay: '52'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    fullDvp: 5
+    defaultDvpDisplay: '30'
+    perServingDisplay: '1.4'
+  - key: niacin
+    name: Niacin (Vitamin B3)
+    uom: mg
+    fullDvp: 16
+    defaultDvpDisplay: '10'
+    perServingDisplay: '1.7'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServingDisplay: '9.799'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    fullDvp: 2.3
+    defaultDvpDisplay: '6'
+    perServingDisplay: '0.14'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    fullDvp: 420
+    defaultDvpDisplay: '6'
+    perServingDisplay: '29'
+  - key: iron
+    name: Iron
+    uom: mg
+    fullDvp: 18
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.55'
+  - key: folicAcid
+    name: Folic Acid
+    uom: mcg
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate (Folacin)
+    uom: mcg
+    fullDvp: 400
+    defaultDvpDisplay: '20'
+    perServingDisplay: '81'
+  - key: fiber
+    name: Dietary Fiber
+    uom: g
+    fullDvp: 28
+    defaultDvpDisplay: '25'
+    perServingDisplay: '7'
+  - key: copper
+    name: Copper
+    uom: mg
+    fullDvp: 0.9
+    defaultDvpDisplay: '20'
+    perServingDisplay: '0.19'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Total Carbohydrate
+    uom: g
+    fullDvp: 275
+    defaultDvpDisplay: '3.3'
+    perServingDisplay: '9'
+  - key: calories
+    name: Calories
+    uom: calories
+    fullDvp: 2000
+    defaultDvpDisplay: '8'
+    perServingDisplay: '160'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    fullDvp: 1300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '12'
+servingInfo:
+  totalSize: 4
+  totalSizeUom: count
+isAlcoholic: false
+rank: 866
+related:
+  - name: Organic Medium Hass Avocado
+    slug: produce-organic-medium-hass-avocado-b07hh9shjl
+    brand: PRODUCE
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/56da07d71a62251100f2ed9a.jpg
+    store: 10225
+  - name: Organic Hass Avocados (4 ct)
+    slug: henry-farms-organic-hass-avocados-4-ct-b07fycb4wx
+    brand: Henry Farms
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/58923221e938df2016069d7d_0854695002333-henryfarms-1.jpg
+    store: 10225

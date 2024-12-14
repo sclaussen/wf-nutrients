@@ -1,0 +1,332 @@
+name: Organic Raspberries
+asin: B08VLD2XR7
+id: '74007500127'
+store: 10225
+detailUri: product/produce-organic-raspberries-b08vld2xr7
+brand:
+  name: PRODUCE
+  slug: produce
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Fruit
+    slug: fresh-fruit
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5aafd3fd7418e97a466a6e61_56e70dc0c5cb2f11004367af-365-red-raspberries-1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5aafd3fd7418e97a466a6e61_56e70dc0c5cb2f11004367af-365-red-raspberries-1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5aafd3fd7418e97a466a6e61_56e70dc0c5cb2f11004367af-365-red-raspberries-1.jpg
+ingredients:
+  - Raspberries
+certifications:
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.517
+    fullDvp: 11
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.52'
+  - key: vitaminK
+    name: Vitamin K
+    uom: mcg
+    defaultDvp: 8
+    perServing: 9.594
+    fullDvp: 120
+    defaultDvpDisplay: '8'
+    perServingDisplay: '10'
+  - key: vitaminE
+    name: Vitamin E
+    uom: mg
+    defaultDvp: 10
+    perServing: 1.594
+    fullDvp: 15
+    defaultDvpDisplay: '10'
+    perServingDisplay: '1.6'
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 35
+    perServing: 32.226
+    fullDvp: 90
+    defaultDvpDisplay: '35'
+    perServingDisplay: '32'
+  - key: vitaminB6
+    name: Vitamin B6
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.068
+    fullDvp: 1.7
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.07'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2.4
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: mcg
+    defaultDvp: 4
+    perServing: 40.59
+    fullDvp: 900
+    defaultDvpDisplay: '4'
+    perServingDisplay: '41'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 1.02
+    perServing: 0.799
+    fullDvp: 78
+    defaultDvpDisplay: '1'
+    perServingDisplay: '0.8'
+  - key: thiamin
+    name: Thiamin
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.039
+    fullDvp: 1.2
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.04'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 5.437
+    perServingDisplay: '5.437'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0.05
+    perServing: 1.23
+    fullDvp: 2300
+    defaultDvpDisplay: '0.05'
+    perServingDisplay: '1.2'
+  - key: selenium
+    name: Selenium
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0.246
+    fullDvp: 55
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.246'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 0.12
+    perServing: 0.023
+    fullDvp: 20
+    defaultDvpDisplay: '0.12'
+    perServingDisplay: '0.02'
+  - key: riboflavin
+    name: Riboflavin
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.047
+    fullDvp: 1.3
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.05'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 1.476
+    fullDvp: 50
+    perServingDisplay: '1.476'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 4
+    perServing: 185.73
+    fullDvp: 4700
+    defaultDvpDisplay: '4'
+    perServingDisplay: '186'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0.461
+    perServingDisplay: '0.461'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    defaultDvp: 2
+    perServing: 35.67
+    fullDvp: 1250
+    defaultDvpDisplay: '2'
+    perServingDisplay: '36'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    defaultDvp: 8
+    perServing: 0.405
+    fullDvp: 5
+    defaultDvpDisplay: '8'
+    perServingDisplay: '0.41'
+  - key: niacin
+    name: Niacin
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.736
+    fullDvp: 16
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.74'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 0.079
+    perServingDisplay: '0.079'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    defaultDvp: 35
+    perServing: 0.824
+    fullDvp: 2.3
+    defaultDvpDisplay: '35'
+    perServingDisplay: '0.82'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 6
+    perServing: 27.06
+    fullDvp: 420
+    defaultDvpDisplay: '6'
+    perServingDisplay: '27'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.849
+    fullDvp: 18
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.85'
+  - key: folicAcid
+    name: Folic Acid
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate
+    uom: mcg
+    defaultDvp: 6
+    perServing: 25.83
+    fullDvp: 400
+    defaultDvpDisplay: '6'
+    perServingDisplay: '26'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 28.55
+    perServing: 7.995
+    fullDvp: 28
+    defaultDvpDisplay: '29'
+    perServingDisplay: '8'
+  - key: copper
+    name: Copper
+    uom: mg
+    defaultDvp: 10
+    perServing: 0.111
+    fullDvp: 0.9
+    defaultDvpDisplay: '10'
+    perServingDisplay: '0.11'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 5.34
+    perServing: 14.686
+    fullDvp: 275
+    defaultDvpDisplay: '5'
+    perServingDisplay: '15'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 3.2
+    perServing: 63.96
+    fullDvp: 2000
+    defaultDvpDisplay: '3.2'
+    perServingDisplay: '64'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2
+    perServing: 30.75
+    fullDvp: 1300
+    defaultDvpDisplay: '2'
+    perServingDisplay: '31'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: cup
+  secondaryServingSize: 123
+  secondaryServingSizeUom: g
+  totalSize: 1
+  totalSizeUom: lb
+  secondaryTotalSize: 454
+  secondaryTotalSizeUom: g
+  servingsPerContainerDisplay: Varies
+isAlcoholic: false
+rank: 78205
+related:
+  - name: Raspberries
+    slug: driscolls-raspberries-b0029blmfk
+    brand: Driscoll's
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/577ee41ac5561b757e4953b5_driscolls_raspberries_1.jpg
+    store: 10225
+  - name: Frozen Organic Fruit, Raspberries
+    slug: 365-by-whole-foods-market-frozen-organic-fruit-raspberries-b074h5qqwx
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/640f725ae1775c36c1da3e89_2023-03-13_18-58-39_front.main.jpg
+    store: 10225

@@ -1,0 +1,172 @@
+name: Boneless Skinless Chicken Breast
+asin: B079MGX4VF
+id: '29712900000'
+store: 10225
+detailUri: product/marys-free-range-boneless-skinless-chicken-breast-b079mgx4vf
+brand:
+  name: Mary's Free Range
+  slug: marys-free-range
+categories:
+  name: Meat
+  slug: meat
+  childCategory:
+    name: Chicken
+    slug: chicken
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fa441e803b5a3779ab4a73e_2020-cen-ecommerce-meat-chickenbreastbonelessskinless.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fa441e803b5a3779ab4a73e_2020-cen-ecommerce-meat-chickenbreastbonelessskinless.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fa441e803b5a3779ab4a73e_2020-cen-ecommerce-meat-chickenbreastbonelessskinless.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fa4422108b1cf77f1885ab6_00297129000008-glamor-frontpackageglamor-2020-01-28t21-08-29-pixel-3a-quality-90-1-20-1-user-5984ad42a967f880524de2c4-iu2d-401543.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fa4422108b1cf77f1885ab6_00297129000008-glamor-frontpackageglamor-2020-01-28t21-08-29-pixel-3a-quality-90-1-20-1-user-5984ad42a967f880524de2c4-iu2d-401543.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fa4422108b1cf77f1885ab6_00297129000008-glamor-frontpackageglamor-2020-01-28t21-08-29-pixel-3a-quality-90-1-20-1-user-5984ad42a967f880524de2c4-iu2d-401543.jpg
+ingredients:
+  - Ingredients Chicken
+certifications:
+  - name: Certified Non-GMO
+    certifiers:
+      - The Non GMO Project
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 3.85
+    perServing: 3
+    fullDvp: 78
+    defaultDvpDisplay: '3.9'
+    perServingDisplay: '3'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 2.17
+    perServing: 50
+    fullDvp: 2300
+    defaultDvpDisplay: '2.2'
+    perServingDisplay: '50'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 2.5
+    perServing: 0.5
+    fullDvp: 20
+    defaultDvpDisplay: '2.5'
+    perServingDisplay: '0.5'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 25
+    fullDvp: 50
+    perServingDisplay: '25'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 8
+    perServing: 374
+    fullDvp: 4700
+    defaultDvpDisplay: '8'
+    perServingDisplay: '374'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 18
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 28
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 26.67
+    perServing: 80
+    fullDvp: 300
+    defaultDvpDisplay: '27'
+    perServingDisplay: '80'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 6.5
+    perServing: 130
+    fullDvp: 2000
+    defaultDvpDisplay: '7'
+    perServingDisplay: '130'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 0
+    perServing: 6
+    fullDvp: 1300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '6'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 4
+  servingSizeUom: oz
+  secondaryServingSize: 112
+  secondaryServingSizeUom: g
+  totalSize: 1.7
+  totalSizeUom: lb
+  servingsPerContainerDisplay: Varies
+isAlcoholic: false
+rank: 1949
+related: []

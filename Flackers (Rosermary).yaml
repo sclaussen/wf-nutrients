@@ -1,0 +1,244 @@
+name: Organic Rosemary Flackers, 5 oz
+asin: B0078DQ85S
+id: '89361500201'
+store: 10225
+detailUri: product/doctor-in-the-kitchen-organic-rosemary-flackers-b0078dq85s
+brand:
+  name: Doctor in the Kitchen
+  slug: doctor-in-the-kitchen
+categories:
+  name: Snacks, Chips, Salsas u0026 Dips
+  slug: snacks-chips-salsas-dips
+  childCategory:
+    name: Crackers
+    slug: crackers
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher by cRc
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825b9_0893615002015-glamor-front-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-84qx-636896.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825b9_0893615002015-glamor-front-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-84qx-636896.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825b9_0893615002015-glamor-front-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-84qx-636896.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825ba_0893615002015-glamor-right-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-orr4-533345.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825ba_0893615002015-glamor-right-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-orr4-533345.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825ba_0893615002015-glamor-right-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-orr4-533345.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bb_0893615002015-glamor-back-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-9i1v-130814.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bb_0893615002015-glamor-back-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-9i1v-130814.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bb_0893615002015-glamor-back-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-9i1v-130814.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bc_0893615002015-glamor-left-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-dl3q-713361.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bc_0893615002015-glamor-left-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-dl3q-713361.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bc_0893615002015-glamor-left-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-dl3q-713361.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bd_0893615002015-glamor-top-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-uoqc-416122.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bd_0893615002015-glamor-top-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-uoqc-416122.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825bd_0893615002015-glamor-top-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-uoqc-416122.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825be_0893615002015-glamor-bottom-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-j60j-112293.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825be_0893615002015-glamor-bottom-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-j60j-112293.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6216db40c902105649f825be_0893615002015-glamor-bottom-2022-02-01t17-42-13-iphone-x-quality-90-1-26-2-user-6191b0023d41d147aed4bacb-j60j-112293.jpg
+ingredients:
+  - >-
+    Ingredients: Organic Flax Seeds, Organic Apple Cider Vinegar, Organic
+    Rosemary, Sea Salt, Organic Sage.
+additives:
+  - Organic Apple Cider Vinegar
+  - Apple Cider Vinegar
+  - Sea Salt
+  - ' Vinegar'
+  - Vinegar
+certifications:
+  - name: Certified Gluten-Free
+    certifiers:
+      - GFCO
+  - name: Certified Kosher
+    certifiers:
+      - cRc
+  - name: Certified Non-GMO
+    certifiers:
+      - Non-GMO Project
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+      - '[MCIA] Minnesota Crop Improvement Association'
+      - USDA Organic
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 12.82
+    perServing: 10
+    fullDvp: 78
+    defaultDvpDisplay: '13'
+    perServingDisplay: '10'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 6.96
+    perServing: 160
+    fullDvp: 2300
+    defaultDvpDisplay: '7'
+    perServingDisplay: '160'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 5
+    perServing: 1
+    fullDvp: 20
+    defaultDvpDisplay: '5'
+    perServingDisplay: '1'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 6
+    fullDvp: 50
+    perServingDisplay: '6'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 2
+    perServing: 66
+    fullDvp: 4700
+    defaultDvpDisplay: '2'
+    perServingDisplay: '66'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 10
+    perServing: 2
+    fullDvp: 18
+    defaultDvpDisplay: '10'
+    perServingDisplay: '2'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 32.14
+    perServing: 9
+    fullDvp: 28
+    defaultDvpDisplay: '32'
+    perServingDisplay: '9'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 3.64
+    perServing: 10
+    fullDvp: 275
+    defaultDvpDisplay: '3.6'
+    perServingDisplay: '10'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 7.5
+    perServing: 150
+    fullDvp: 2000
+    defaultDvpDisplay: '8'
+    perServingDisplay: '150'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 6
+    perServing: 70
+    fullDvp: 1300
+    defaultDvpDisplay: '6'
+    perServingDisplay: '70'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 8
+  servingSizeUom: crackers
+  servingSizeDisplay: '8'
+  secondaryServingSize: 29
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '29'
+  totalSize: 5
+  totalSizeUom: oz
+  secondaryTotalSize: 142
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 5
+  servingsPerContainerDisplay: '5'
+isAlcoholic: false
+rank: 8528
+related:
+  - name: Organic Flax u0026 Fonio Flackers, 4.5 oz
+    slug: flackers-organic-flax-fonio-flackers-45-oz-b09dcgq8gf
+    brand: Flackers
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/628d7382b071094c110c3c14_0893615002220-glamor-front-2022-05-04t17-52-43-iphone-7-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-jb08-673463.jpg
+    store: 10225
+  - name: Organic Superseed Rosemary Cracker, 5 oz
+    slug: marys-gone-crackers-organic-superseed-rosemary-cracker-5-oz-b07qvmn772
+    brand: Mary's Gone Crackers
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b7b5127ac661363101166_dld-0853665005541-glamor-front-2022-02-25t13-54-50-iphone-7-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-s0m8-004123-1649113931551.jpg
+    store: 10225

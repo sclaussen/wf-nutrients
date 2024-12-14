@@ -1,0 +1,228 @@
+name: Grass-Fed Dubliner Irish Cheese, 7oz.
+asin: B001E96KUU
+id: '76770700118'
+store: 10225
+detailUri: product/kerrygold-grassfed-dubliner-irish-cheese-7oz-b001e96kuu
+brand:
+  name: Kerrygold
+  slug: kerrygold
+categories:
+  name: Dairy u0026 Eggs
+  slug: dairy-eggs
+  childCategory:
+    name: Cheese
+    slug: cheese
+diets:
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e43f3201708dc5db6c_2022-09-08_15-10-40_Front.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e43f3201708dc5db6c_2022-09-08_15-10-40_Front.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e43f3201708dc5db6c_2022-09-08_15-10-40_Front.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e30d1369709457a8c7_2022-09-08_15-10-50_Lifestyle.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e30d1369709457a8c7_2022-09-08_15-10-50_Lifestyle.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e30d1369709457a8c7_2022-09-08_15-10-50_Lifestyle.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e3ec3191707f395eba_2022-09-08_15-10-44_Lifestyle.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e3ec3191707f395eba_2022-09-08_15-10-44_Lifestyle.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05e3ec3191707f395eba_2022-09-08_15-10-44_Lifestyle.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05eaec3191707f395ee4_2022-09-08_15-10-49_Back.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05eaec3191707f395ee4_2022-09-08_15-10-49_Back.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05eaec3191707f395ee4_2022-09-08_15-10-49_Back.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05eb0d1369709457a8f1_2022-09-08_15-10-54_Lifestyle.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05eb0d1369709457a8f1_2022-09-08_15-10-54_Lifestyle.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631a05eb0d1369709457a8f1_2022-09-08_15-10-54_Lifestyle.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631f5dea3f3201708de51b60_2022-09-12_16-27-27_Ingredients.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631f5dea3f3201708de51b60_2022-09-12_16-27-27_Ingredients.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/631f5dea3f3201708de51b60_2022-09-12_16-27-27_Ingredients.main.jpg
+ingredients:
+  - 'Ingredients: Pasteurized Milk, Salt, Cheese Cultures u0026 Enzymes.'
+additives:
+  - Cheese Cultures
+  - ' Cultures'
+  - Cultures
+  - Enzymes
+  - Salt
+allergens:
+  - Milk and Dairy
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 11.54
+    perServing: 9
+    fullDvp: 78
+    defaultDvpDisplay: '12'
+    perServingDisplay: '9'
+  - key: sugarAlcohol
+    name: Sugar Alcohol
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 9.13
+    perServing: 210
+    fullDvp: 2300
+    defaultDvpDisplay: '9'
+    perServingDisplay: '210'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 30
+    perServing: 6
+    fullDvp: 20
+    defaultDvpDisplay: '30'
+    perServingDisplay: '6'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 7
+    fullDvp: 50
+    perServingDisplay: '7'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 4700
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 18
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 28
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 8.33
+    perServing: 25
+    fullDvp: 300
+    defaultDvpDisplay: '8'
+    perServingDisplay: '25'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 5.5
+    perServing: 110
+    fullDvp: 2000
+    defaultDvpDisplay: '6'
+    perServingDisplay: '110'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 15
+    perServing: 195
+    fullDvp: 1300
+    defaultDvpDisplay: '15'
+    perServingDisplay: '195'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: oz
+  servingSizeDisplay: '1'
+  secondaryServingSize: 28
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '28'
+  totalSize: 7
+  totalSizeUom: oz
+  secondaryTotalSize: 198
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 7
+  servingsPerContainerDisplay: '7'
+isAlcoholic: false
+rank: 1558
+related:
+  - name: Grass-Fed Cashel Blue Cheese
+    slug: kerrygold-grassfed-cashel-blue-cheese-b0787y57qk
+    brand: Kerrygold
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/603feeb54afbe95463c50812_cashelblue-500x500.jpg
+    store: 10225
+  - name: Grass-Fed Kilaree Irish Cheddar (Aged 15 Months)
+    slug: kerrygold-grassfed-kilaree-irish-cheddar-aged-15-months-b0787zb2dt
+    brand: Kerrygold
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b7fdc27ac661363102703_dld-0295847000003-glamor-front-2022-03-01t20-42-42-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-yvvs-118113-1649115093248.jpg
+    store: 10225

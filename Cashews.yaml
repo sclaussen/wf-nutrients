@@ -1,0 +1,226 @@
+name: Organic Raw Cashews, 10 oz
+asin: B07GL9GNZ7
+id: '9948247414'
+store: 10225
+detailUri: product/365-by-whole-foods-market-organic-raw-cashews-b07gl9gnz7
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Snacks, Chips, Salsas u0026 Dips
+  slug: snacks-chips-salsas-dips
+  childCategory:
+    name: Nuts, Seeds u0026 Dried Fruit
+    slug: nuts-seeds-dried-fruit
+diets:
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher by other
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233497b88392b251ced558_2023-03-28_18-40-48_front.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233497b88392b251ced558_2023-03-28_18-40-48_front.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233497b88392b251ced558_2023-03-28_18-40-48_front.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6423347db88392e7bbced551_2023-03-28_18-40-23_back.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6423347db88392e7bbced551_2023-03-28_18-40-23_back.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6423347db88392e7bbced551_2023-03-28_18-40-23_back.main.jpg
+ingredients:
+  - 'Ingredients: Organic Cashews.'
+allergens:
+  - Tree Nuts
+certifications:
+  - name: Certified Kosher
+    certifiers:
+      - other
+  - name: Certified Organic
+    certifiers:
+      - '[QAI] Quality Assurance International'
+      - USDA Organic
+      - '[QAI] Quality Assurance International'
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 15
+    perServing: 1.6
+    fullDvp: 11
+    defaultDvpDisplay: '15'
+    perServingDisplay: '1.6'
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 15.38
+    perServing: 12
+    fullDvp: 78
+    defaultDvpDisplay: '15'
+    perServingDisplay: '12'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 2
+    perServingDisplay: '2'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 10
+    perServing: 2
+    fullDvp: 20
+    defaultDvpDisplay: '10'
+    perServingDisplay: '2'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 5
+    fullDvp: 50
+    perServingDisplay: '5'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 4
+    perServing: 180
+    fullDvp: 4700
+    defaultDvpDisplay: '4'
+    perServingDisplay: '180'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 2
+    perServingDisplay: '2'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 7
+    perServingDisplay: '7'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 20
+    perServing: 80
+    fullDvp: 420
+    defaultDvpDisplay: '20'
+    perServingDisplay: '80'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 10
+    perServing: 1.9
+    fullDvp: 18
+    defaultDvpDisplay: '10'
+    perServingDisplay: '1.9'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 3.57
+    perServing: 1
+    fullDvp: 28
+    defaultDvpDisplay: u003c 3.6
+    perServingDisplay: u003c 1
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 2.91
+    perServing: 8
+    fullDvp: 275
+    defaultDvpDisplay: '2.9'
+    perServingDisplay: '8'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 7.5
+    perServing: 150
+    fullDvp: 2000
+    defaultDvpDisplay: '8'
+    perServingDisplay: '150'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 1300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 28
+  servingSizeUom: g
+  servingSizeDisplay: '28'
+  secondaryServingSize: 28
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '28'
+  totalSize: 10
+  totalSizeUom: oz
+  secondaryTotalSize: 283
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 10
+  servingsPerContainerDisplay: '10'
+isAlcoholic: false
+rank: 512
+related:
+  - name: Organic Raw Pumpkin Seeds, 10 oz
+    slug: aurora-natural-organic-raw-pumpkin-seeds-10-oz-b07nrd6dhb
+    brand: Aurora Natural
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63f17b86d112cc5b45bc0fa4_0655852001998-glamor-front-2023-01-23t15-53-53-iphone-x-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-60x4-533529.jpg
+    store: 10225
+  - name: Organic Raw Macadamia Nuts, 6 oz
+    slug: aurora-natural-organic-raw-macadamia-nuts-6-oz-b07xvyq5rh
+    brand: Aurora Natural
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63f17bb6d112cc5b45bc1023_0655852008652-glamor-front-2023-01-23t15-40-01-iphone-x-quality-90-1-33-0-user-5d7652c1db2c4b51d4c666ca-amea-828878.jpg
+    store: 10225

@@ -1,0 +1,332 @@
+name: Organic Packaged Salads, Baby Spinach (Triple-Washed)
+asin: B074H54XMM
+id: '9948245237'
+store: 10225
+detailUri: >-
+  product/whole-foods-market-organic-packaged-salads-baby-spinach-triplewashed-b074h54xmm
+brand:
+  name: Whole Foods Market
+  slug: whole-foods-market
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Vegetables
+    slug: fresh-vegetables
+diets:
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6529e895253b550b9afd156a_2023-10-14_01-02-14_front.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6529e895253b550b9afd156a_2023-10-14_01-02-14_front.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6529e895253b550b9afd156a_2023-10-14_01-02-14_front.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6529e9cac8c9b80bd0940f3d_2023-10-14_01-07-23_back.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6529e9cac8c9b80bd0940f3d_2023-10-14_01-07-23_back.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6529e9cac8c9b80bd0940f3d_2023-10-14_01-07-23_back.main.jpg
+ingredients:
+  - 'Ingredients: Organic Baby Spinach'
+certifications:
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+      - Quality Assurance International (QAI)
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.159
+    fullDvp: 11
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.16'
+  - key: vitaminK
+    name: Vitamin K
+    uom: mcg
+    defaultDvp: 120
+    perServing: 144.87
+    fullDvp: 120
+    defaultDvpDisplay: '120'
+    perServingDisplay: '145'
+  - key: vitaminE
+    name: Vitamin E
+    uom: mg
+    defaultDvp: 6
+    perServing: 0.907
+    fullDvp: 15
+    defaultDvpDisplay: '6'
+    perServingDisplay: '0.91'
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 10
+    perServing: 8.43
+    fullDvp: 90
+    defaultDvpDisplay: '10'
+    perServingDisplay: '8'
+  - key: vitaminB6
+    name: Vitamin B6
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.058
+    fullDvp: 1.7
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.06'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2.4
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: mcg
+    defaultDvp: 310
+    perServing: 2813.1
+    fullDvp: 900
+    defaultDvpDisplay: '310'
+    perServingDisplay: '2813'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 0.15
+    perServing: 0.117
+    fullDvp: 78
+    defaultDvpDisplay: '0.15'
+    perServingDisplay: '0.12'
+  - key: thiamin
+    name: Thiamin
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.023
+    fullDvp: 1.2
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.02'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0.126
+    perServingDisplay: '0.126'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 1.03
+    perServing: 23.7
+    fullDvp: 2300
+    defaultDvpDisplay: '1'
+    perServingDisplay: '24'
+  - key: selenium
+    name: Selenium
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0.3
+    fullDvp: 55
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.3'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 0.1
+    perServing: 0.019
+    fullDvp: 20
+    defaultDvpDisplay: '0.1'
+    perServingDisplay: '0.02'
+  - key: riboflavin
+    name: Riboflavin
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.057
+    fullDvp: 1.3
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.06'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 0.858
+    fullDvp: 50
+    perServingDisplay: '0.858'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 4
+    perServing: 167.4
+    fullDvp: 4700
+    defaultDvpDisplay: '4'
+    perServingDisplay: '167'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0.05
+    perServingDisplay: '0.05'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    defaultDvp: 2
+    perServing: 14.7
+    fullDvp: 1250
+    defaultDvpDisplay: '2'
+    perServingDisplay: '15'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    defaultDvp: 0
+    perServing: 0.019
+    fullDvp: 5
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.019'
+  - key: niacin
+    name: Niacin
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.217
+    fullDvp: 16
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.22'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 0.003
+    perServingDisplay: '0.003'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    defaultDvp: 10
+    perServing: 0.269
+    fullDvp: 2.3
+    defaultDvpDisplay: '10'
+    perServingDisplay: '0.27'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 6
+    perServing: 23.7
+    fullDvp: 420
+    defaultDvpDisplay: '6'
+    perServingDisplay: '24'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.813
+    fullDvp: 18
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.81'
+  - key: folicAcid
+    name: Folic Acid
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate
+    uom: mcg
+    defaultDvp: 15
+    perServing: 58.2
+    fullDvp: 400
+    defaultDvpDisplay: '15'
+    perServingDisplay: '58'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 2.36
+    perServing: 0.66
+    fullDvp: 28
+    defaultDvpDisplay: '2.4'
+    perServingDisplay: '0.66'
+  - key: copper
+    name: Copper
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.039
+    fullDvp: 0.9
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.04'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0.4
+    perServing: 1.089
+    fullDvp: 275
+    defaultDvpDisplay: '0.4'
+    perServingDisplay: '1.1'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 0.35
+    perServing: 6.9
+    fullDvp: 2000
+    defaultDvpDisplay: '0.35'
+    perServingDisplay: '7'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2
+    perServing: 29.7
+    fullDvp: 1300
+    defaultDvpDisplay: '2'
+    perServingDisplay: '30'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: cup
+  secondaryServingSize: 10
+  secondaryServingSizeUom: g
+  totalSize: 16
+  totalSizeUom: oz
+  secondaryTotalSize: 454
+  secondaryTotalSizeUom: g
+  servingsPerContainerDisplay: Varies
+isAlcoholic: false
+rank: 48
+related:
+  - name: Organic Baby Spinach Salad
+    slug: whole-foods-market-organic-baby-spinach-salad-b088k6v6bn
+    brand: Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62d09944d707891144dac32e_0099482466732-glamor-front-2022-03-14t18-27-59-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-od8y-427265.jpg
+    store: 10225
+  - name: Organic Baby Spinach Salad
+    slug: whole-foods-market-organic-baby-spinach-salad-b0bfg3bhnh
+    brand: Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62d09944d707891144dac32e_0099482466732-glamor-front-2022-03-14t18-27-59-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-od8y-427265.jpg
+    store: 10225

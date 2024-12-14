@@ -1,0 +1,150 @@
+name: Avocado Oil Blend, 16.9 fl oz
+asin: B0958R6DHY
+id: '9948251596'
+store: 10225
+detailUri: product/365-by-whole-foods-market-avocado-oil-blend-b0958r6dhy
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Pantry Essentials
+  slug: pantry-essentials
+  childCategory:
+    name: Condiments u0026 Dressings
+    slug: condiments-dressings
+diets:
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher (noType) by OU
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/65650d3c9cc01d23a3a604d0_2023-11-27_21-42-31_other.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/65650d3c9cc01d23a3a604d0_2023-11-27_21-42-31_other.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/65650d3c9cc01d23a3a604d0_2023-11-27_21-42-31_other.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/65650d3c9cc01d3720a604d2_2023-11-27_21-42-31_other.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/65650d3c9cc01d3720a604d2_2023-11-27_21-42-31_other.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/65650d3c9cc01d3720a604d2_2023-11-27_21-42-31_other.main.jpg
+ingredients:
+  - >-
+    Ingredients: Expeller Pressed Avocado Oil (50%), Extra Virgin Olive Oil
+    (50%).
+certifications:
+  - name: Certified Kosher
+    certifiers:
+      - OU
+  - name: Certified Non-GMO
+    certifiers:
+      - Non-GMO Project
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 17.95
+    perServing: 14
+    fullDvp: 78
+    defaultDvpDisplay: '18'
+    perServingDisplay: '14'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 7.5
+    perServing: 1.5
+    fullDvp: 20
+    defaultDvpDisplay: '8'
+    perServingDisplay: '1.5'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 0
+    fullDvp: 50
+    perServingDisplay: '0'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 1.5
+    perServingDisplay: '1.5'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 10
+    perServingDisplay: '10'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 6
+    perServing: 120
+    fullDvp: 2000
+    defaultDvpDisplay: '6'
+    perServingDisplay: '120'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: tbsp
+  servingSizeDisplay: '1'
+  secondaryServingSize: 15
+  secondaryServingSizeUom: ml
+  secondaryServingSizeDisplay: '15'
+  totalSize: 16.9
+  totalSizeUom: fl oz
+  secondaryTotalSize: 500
+  secondaryTotalSizeUom: ml
+  servingsPerContainer: 33
+  servingsPerContainerDisplay: '33'
+isAlcoholic: false
+rank: 23983
+related:
+  - name: Delicate Avocado Oil, 16.9 fl oz
+    slug: la-tourangelle-delicate-avocado-oil-169-fl-oz-b006k3rcpc
+    brand: La Tourangelle
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f6e84ee0fee01ecb7af0bb5_00857190000194-glamor-frontpackageglamor-2020-09-14t18-28-23-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-fju5-967258.jpg
+    store: 10225
+  - name: Expeller Pressed Cooking Oil, Avocado, 16.9 fl oz
+    slug: >-
+      365-by-whole-foods-market-expeller-pressed-cooking-oil-avocado-169-fl-oz-b07q4yng8w
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6480a5602127d75f5c5aaa3c_99482482909-2023-cen-ecommerce-eb-expellerpressedavocadooil16-9oz.jpg
+    store: 10225

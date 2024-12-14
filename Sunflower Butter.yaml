@@ -1,0 +1,201 @@
+name: Unsweetened u0026 Salt Free Organic Sunflower Seed Butter, 16 oz
+asin: B008K4HTN4
+id: '4408253041'
+store: 10225
+detailUri: >-
+  product/once-again-nut-butter-unsweetened-salt-free-organic-sunflower-seed-butter-b008k4htn4
+brand:
+  name: Once Again Nut Butter
+  slug: once-again-nut-butter
+categories:
+  name: Pantry Essentials
+  slug: pantry-essentials
+  childCategory:
+    name: Jam, Jellies u0026 Nut Butters
+    slug: jam-jellies-nut-butters
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b2_00044082530413-glamor-frontpackageglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-2ib2-393987.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b2_00044082530413-glamor-frontpackageglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-2ib2-393987.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b2_00044082530413-glamor-frontpackageglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-2ib2-393987.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b3_00044082530413-glamor-nutritionglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-05ug-803127.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b3_00044082530413-glamor-nutritionglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-05ug-803127.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b3_00044082530413-glamor-nutritionglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-05ug-803127.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b4_00044082530413-glamor-ingredientsglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-b5lc-036746.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b4_00044082530413-glamor-ingredientsglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-b5lc-036746.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5eda613f7eccc1580693d6b4_00044082530413-glamor-ingredientsglamor-2020-05-19t16-18-56-pixel-3a-quality-90-1-21-1-user-5984ad42a967f880524de2c4-b5lc-036746.jpg
+ingredients:
+  - >-
+    Ingredients: Organically Grown, Dry Roasted Sunflower Seeds, Organic
+    Sunflower Oil
+certifications:
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+  - name: Certified Non-GMO
+    certifiers:
+      - The Non GMO Project
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 24.36
+    perServing: 19
+    fullDvp: 78
+    defaultDvpDisplay: '24'
+    perServingDisplay: '19'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 1
+    perServingDisplay: '1'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 10
+    perServing: 2
+    fullDvp: 20
+    defaultDvpDisplay: '10'
+    perServingDisplay: '2'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 5
+    fullDvp: 50
+    perServingDisplay: '5'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 4
+    perServing: 188
+    fullDvp: 4700
+    defaultDvpDisplay: '4'
+    perServingDisplay: '188'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 10
+    perServing: 1.8
+    fullDvp: 18
+    defaultDvpDisplay: '10'
+    perServingDisplay: '1.8'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 10.71
+    perServing: 3
+    fullDvp: 28
+    defaultDvpDisplay: '11'
+    perServingDisplay: '3'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 1.45
+    perServing: 4
+    fullDvp: 275
+    defaultDvpDisplay: '1.5'
+    perServingDisplay: '4'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 10.5
+    perServing: 210
+    fullDvp: 2000
+    defaultDvpDisplay: '11'
+    perServingDisplay: '210'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2
+    perServing: 26
+    fullDvp: 1300
+    defaultDvpDisplay: '2'
+    perServingDisplay: '26'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 2
+  servingSizeUom: tbsp
+  secondaryServingSize: 30
+  secondaryServingSizeUom: g
+  totalSize: 16
+  totalSizeUom: oz
+  secondaryTotalSize: 454
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 15
+  servingsPerContainerDisplay: '15'
+isAlcoholic: false
+rank: 90000000
+related:
+  - name: Organic Sunflower Butter, 16 oz
+    slug: sunbutter-organic-sunflower-butter-16-oz-b003pwjfxs
+    brand: SunButter
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/620c7c05bef7c331930c3585_dld-0737539190499-glamor-front-2021-12-10t19-49-14-iphone-x-quality-90-1-26-2-user-5984ad42a967f880524de2c4-zefr-426315-1644985348884.jpg
+    store: 10225
+  - name: Organic On The Go Sunflower Butter, 1 each
+    slug: sunbutter-organic-on-the-go-sunflower-butter-1-each-b09jb3c5lp
+    brand: SunButter
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62d09e37d707891144dadd2c_0737539194107-glamor-front-2022-06-07t19-28-02-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-by2b-441138.jpg
+    store: 10225

@@ -1,0 +1,178 @@
+name: Ground Lamb
+asin: B07FZFB9FG
+id: '89207100214'
+store: 10225
+detailUri: product/atkins-ranch-ground-lamb-b07fzfb9fg
+brand:
+  name: Atkins Ranch
+  slug: atkins-ranch
+categories:
+  name: Meat
+  slug: meat
+  childCategory:
+    name: Goat, Lamb u0026 Veal
+    slug: goat-lamb-veal
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f88e2dad7778bad007b6ebc_00892071002140-glamor-frontpackageglamor-2020-09-17t21-25-11-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-bf60-121252.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f88e2dad7778bad007b6ebc_00892071002140-glamor-frontpackageglamor-2020-09-17t21-25-11-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-bf60-121252.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f88e2dad7778bad007b6ebc_00892071002140-glamor-frontpackageglamor-2020-09-17t21-25-11-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-bf60-121252.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f88e2dad7778bad007b6ebd_00892071002140-glamor-nutritionglamor-2020-09-17t21-25-11-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-hci8-754865.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f88e2dad7778bad007b6ebd_00892071002140-glamor-nutritionglamor-2020-09-17t21-25-11-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-hci8-754865.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f88e2dad7778bad007b6ebd_00892071002140-glamor-nutritionglamor-2020-09-17t21-25-11-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-hci8-754865.jpg
+ingredients:
+  - Grass-fed Ground Lamb
+certifications:
+  - name: Certified Non-GMO
+    certifiers:
+      - The Non GMO Project
+nutritionGroup: adult
+nutritionLabelFormat: current
+nutritionElements:
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 60
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: IU
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 5000
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 1.7
+    perServingDisplay: '1.7'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 24.62
+    perServing: 16
+    fullDvp: 65
+    defaultDvpDisplay: '25'
+    perServingDisplay: '16'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 3.33
+    perServing: 80
+    fullDvp: 2400
+    defaultDvpDisplay: '3.3'
+    perServingDisplay: '80'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 35
+    perServing: 7
+    fullDvp: 20
+    defaultDvpDisplay: '35'
+    perServingDisplay: '7'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 20
+    fullDvp: 50
+    perServingDisplay: '20'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 10
+    perServing: 1.8
+    fullDvp: 18
+    defaultDvpDisplay: '10'
+    perServingDisplay: '1.8'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 25
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: fatCalories
+    name: Fat Calories
+    uom: calories
+    perServing: 150
+    perServingDisplay: '150'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 30
+    perServing: 90
+    fullDvp: 300
+    defaultDvpDisplay: '30'
+    perServingDisplay: '90'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0.33
+    perServing: 1
+    fullDvp: 300
+    defaultDvpDisplay: '0.33'
+    perServingDisplay: '1'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 12
+    perServing: 240
+    fullDvp: 2000
+    defaultDvpDisplay: '12'
+    perServingDisplay: '240'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2
+    perServing: 20
+    fullDvp: 1000
+    defaultDvpDisplay: '2'
+    perServingDisplay: '20'
+servingInfo:
+  servingSize: 4
+  servingSizeUom: oz
+  secondaryServingSize: 112
+  secondaryServingSizeUom: g
+  totalSize: 16
+  totalSizeUom: oz
+  servingsPerContainer: 4
+  servingsPerContainerDisplay: '4'
+isAlcoholic: false
+rank: 924
+related:
+  - name: Bone In Leg of Lamb
+    slug: meat-bone-in-leg-of-lamb-b079yx944f
+    brand: MEAT
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/61e84e2e5e12a1566b9be443_00290124000004-2020-cen-ecommerce-meat-lamb-legbonein.jpg
+    store: 10225
+  - name: Boneless Leg of Lamb
+    slug: meat-boneless-leg-of-lamb-b07zfwq746
+    brand: MEAT
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/61e84e2e5e12a1566b9be43f_00290099000009-5f498640144b13f9b96ca4eb-2020-cen-ecommerce-meat-lamblegboneless.jpg
+    store: 10225

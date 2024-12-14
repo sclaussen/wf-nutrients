@@ -1,0 +1,204 @@
+name: Organic Large Eggs, 36 oz
+asin: B089C8JT7B
+id: '85138700741'
+store: 10225
+detailUri: product/vital-farms-organic-large-eggs-b089c8jt7b
+brand:
+  name: Vital Farms
+  slug: vital-farms
+categories:
+  name: Dairy u0026 Eggs
+  slug: dairy-eggs
+  childCategory:
+    name: Eggs
+    slug: eggs
+diets:
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: low-sodium
+    name: Low-Sodium
+    disclosures:
+      - info: See nutrition information for cholesterol content
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425e0f40409c0fd1d508_00851387007416-glamor-frontpackageglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-srje-305829.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425e0f40409c0fd1d508_00851387007416-glamor-frontpackageglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-srje-305829.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425e0f40409c0fd1d508_00851387007416-glamor-frontpackageglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-srje-305829.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425e0f40409c0fd1d507_00851387007416-glamor-nutritionglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-tpg2-794869.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425e0f40409c0fd1d507_00851387007416-glamor-nutritionglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-tpg2-794869.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425e0f40409c0fd1d507_00851387007416-glamor-nutritionglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-tpg2-794869.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425d0f40409c0fd1d506_00851387007416-glamor-ingredientsglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-maos-137794.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425d0f40409c0fd1d506_00851387007416-glamor-ingredientsglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-maos-137794.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425d0f40409c0fd1d506_00851387007416-glamor-ingredientsglamor-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-maos-137794.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425d0f40409c0fd1d505_00851387007416-glamor-glamor3-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-8rr9-379452.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425d0f40409c0fd1d505_00851387007416-glamor-glamor3-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-8rr9-379452.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f52425d0f40409c0fd1d505_00851387007416-glamor-glamor3-2020-08-27t18-14-15-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-8rr9-379452.jpg
+ingredients:
+  - Organic Large Eggs
+allergens:
+  - Eggs
+certifications:
+  - name: Animal Welfare Certified
+    certifiers:
+      - Humane Farm Animal Care (HFAC)
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 6
+    perServing: 1
+    fullDvp: 20
+    defaultDvpDisplay: '6'
+    perServingDisplay: '1'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 6.41
+    perServing: 5
+    fullDvp: 78
+    defaultDvpDisplay: '6'
+    perServingDisplay: '5'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 3.04
+    perServing: 70
+    fullDvp: 2300
+    defaultDvpDisplay: '3'
+    perServingDisplay: '70'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 7.5
+    perServing: 1.5
+    fullDvp: 20
+    defaultDvpDisplay: '8'
+    perServingDisplay: '1.5'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 6
+    fullDvp: 50
+    perServingDisplay: '6'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 2
+    perServing: 70
+    fullDvp: 4700
+    defaultDvpDisplay: '2'
+    perServingDisplay: '70'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 6
+    perServing: 0.9
+    fullDvp: 18
+    defaultDvpDisplay: '6'
+    perServingDisplay: '0.9'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 28
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 61.67
+    perServing: 185
+    fullDvp: 300
+    defaultDvpDisplay: '62'
+    perServingDisplay: '185'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 3.5
+    perServing: 70
+    fullDvp: 2000
+    defaultDvpDisplay: '3.5'
+    perServingDisplay: '70'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2
+    perServing: 30
+    fullDvp: 1300
+    defaultDvpDisplay: '2'
+    perServingDisplay: '30'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: egg
+  secondaryServingSize: 50
+  secondaryServingSizeUom: g
+  totalSize: 36
+  totalSizeUom: oz
+  secondaryTotalSize: 1.03
+  secondaryTotalSizeUom: kg
+  servingsPerContainer: 18
+  servingsPerContainerDisplay: '18'
+isAlcoholic: false
+rank: 90000000
+related:
+  - name: Organic Large Eggs, 12 eggs
+    slug: pete-and-gerrys-organic-large-eggs-12-eggs-b00f0znk8e
+    brand: Pete And Gerry's
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e6be177a3fc288ec1585f4c_crop.jpg
+    store: 10225
+  - name: Organic Large Grade Aa Eggs, 12 large eggs
+    slug: happy-hens-organic-large-grade-aa-eggs-12-large-eggs-b079lbggnz
+    brand: Happy Hens
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fd474bd3b4f504b5ba545e9_00091037260741-glamor-frontpackageglamor-2020-12-09t16-46-44-iphone-x-quality-90-1-21-8-user-5984ad42a967f880524de2c4-jyzz-022703.jpg
+    store: 10225

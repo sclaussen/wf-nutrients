@@ -1,0 +1,332 @@
+name: Organic Blackberries
+asin: B07GLPFPS4
+id: '71575610025'
+store: 10225
+detailUri: product/driscolls-organic-blackberries-b07glpfps4
+brand:
+  name: Driscoll's
+  slug: driscolls
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Fruit
+    slug: fresh-fruit
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdbc663f1bae1000c37_00715756100255-glamor-frontpackageglamor-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-65lz-547035.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdbc663f1bae1000c37_00715756100255-glamor-frontpackageglamor-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-65lz-547035.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdbc663f1bae1000c37_00715756100255-glamor-frontpackageglamor-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-65lz-547035.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdbc663f1bae1000c36_00715756100255-glamor-glamor1-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-kg49-370964.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdbc663f1bae1000c36_00715756100255-glamor-glamor1-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-kg49-370964.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdbc663f1bae1000c36_00715756100255-glamor-glamor1-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-kg49-370964.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdac663f1bae1000c35_00715756100255-glamor-glamor2-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-w362-027733.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdac663f1bae1000c35_00715756100255-glamor-glamor2-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-w362-027733.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f499bdac663f1bae1000c35_00715756100255-glamor-glamor2-2020-08-18t17-04-19-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-w362-027733.jpg
+ingredients:
+  - Blackberries
+certifications:
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 6
+    perServing: 0.76
+    fullDvp: 11
+    defaultDvpDisplay: '6'
+    perServingDisplay: '0.76'
+  - key: vitaminK
+    name: Vitamin K
+    uom: mcg
+    defaultDvp: 25
+    perServing: 29
+    fullDvp: 120
+    defaultDvpDisplay: '25'
+    perServingDisplay: '29'
+  - key: vitaminE
+    name: Vitamin E
+    uom: mg
+    defaultDvp: 15
+    perServing: 2.5
+    fullDvp: 15
+    defaultDvpDisplay: '15'
+    perServingDisplay: '2.5'
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 35
+    perServing: 30
+    fullDvp: 90
+    defaultDvpDisplay: '35'
+    perServingDisplay: '30'
+  - key: vitaminB6
+    name: Vitamin B6
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.04
+    fullDvp: 1.7
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.04'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2.4
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: mcg
+    defaultDvp: 35
+    perServing: 308
+    fullDvp: 900
+    defaultDvpDisplay: '35'
+    perServingDisplay: '308'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 0.91
+    perServing: 0.71
+    fullDvp: 78
+    defaultDvpDisplay: '0.91'
+    perServingDisplay: '0.71'
+  - key: thiamin
+    name: Thiamin
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.03
+    fullDvp: 1.2
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.03'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 7.027
+    perServingDisplay: '7.027'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0.06
+    perServing: 1.4
+    fullDvp: 2300
+    defaultDvpDisplay: '0.06'
+    perServingDisplay: '1.4'
+  - key: selenium
+    name: Selenium
+    uom: mcg
+    defaultDvp: 2
+    perServing: 0.58
+    fullDvp: 55
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.58'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 0.1
+    perServing: 0.02
+    fullDvp: 20
+    defaultDvpDisplay: '0.1'
+    perServingDisplay: '0.02'
+  - key: riboflavin
+    name: Riboflavin
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.04
+    fullDvp: 1.3
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.04'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 2.002
+    fullDvp: 50
+    perServingDisplay: '2.002'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 4
+    perServing: 233
+    fullDvp: 4700
+    defaultDvpDisplay: '4'
+    perServingDisplay: '233'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0.403
+    perServingDisplay: '0.403'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    defaultDvp: 2
+    perServing: 32
+    fullDvp: 1250
+    defaultDvpDisplay: '2'
+    perServingDisplay: '32'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    defaultDvp: 8
+    perServing: 0.4
+    fullDvp: 5
+    defaultDvpDisplay: '8'
+    perServingDisplay: '0.4'
+  - key: niacin
+    name: Niacin
+    uom: mg
+    defaultDvp: 6
+    perServing: 0.93
+    fullDvp: 16
+    defaultDvpDisplay: '6'
+    perServingDisplay: '0.93'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 0.068
+    perServingDisplay: '0.068'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    defaultDvp: 40
+    perServing: 0.93
+    fullDvp: 2.3
+    defaultDvpDisplay: '40'
+    perServingDisplay: '0.93'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 6
+    perServing: 29
+    fullDvp: 420
+    defaultDvpDisplay: '6'
+    perServingDisplay: '29'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 4
+    perServing: 0.89
+    fullDvp: 18
+    defaultDvpDisplay: '4'
+    perServingDisplay: '0.89'
+  - key: folicAcid
+    name: Folic Acid
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate
+    uom: mcg
+    defaultDvp: 10
+    perServing: 36
+    fullDvp: 400
+    defaultDvpDisplay: '10'
+    perServingDisplay: '36'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 28.57
+    perServing: 8
+    fullDvp: 28
+    defaultDvpDisplay: '29'
+    perServingDisplay: '8'
+  - key: copper
+    name: Copper
+    uom: mg
+    defaultDvp: 25
+    perServing: 0.24
+    fullDvp: 0.9
+    defaultDvpDisplay: '25'
+    perServingDisplay: '0.24'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 5.09
+    perServing: 14
+    fullDvp: 275
+    defaultDvpDisplay: '5'
+    perServingDisplay: '14'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 3.1
+    perServing: 62
+    fullDvp: 2000
+    defaultDvpDisplay: '3.1'
+    perServingDisplay: '62'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 4
+    perServing: 42
+    fullDvp: 1300
+    defaultDvpDisplay: '4'
+    perServingDisplay: '42'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: cup
+  secondaryServingSize: 144
+  secondaryServingSizeUom: g
+  totalSize: 12
+  totalSizeUom: oz
+  secondaryTotalSize: 340
+  secondaryTotalSizeUom: g
+  servingsPerContainerDisplay: Varies
+isAlcoholic: false
+rank: 794
+related: []

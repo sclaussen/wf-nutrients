@@ -1,0 +1,204 @@
+name: Organic Apricot Fruit Spread, 10 oz
+asin: B000GLG1XI
+id: '6727500036'
+store: 10225
+detailUri: product/crofters-crofters-organic-apricot-fruit-spread-b000glg1xi
+brand:
+  name: Crofter's
+  slug: crofters
+categories:
+  name: Pantry Essentials
+  slug: pantry-essentials
+  childCategory:
+    name: Jam, Jellies u0026 Nut Butters
+    slug: jam-jellies-nut-butters
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a1_0067275000364-glamor-front-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-31et-793535.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a1_0067275000364-glamor-front-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-31et-793535.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a1_0067275000364-glamor-front-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-31et-793535.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a2_0067275000364-glamor-front-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-gwt6-852083.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a2_0067275000364-glamor-front-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-gwt6-852083.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a2_0067275000364-glamor-front-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-gwt6-852083.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a3_0067275000364-glamor-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-vag4-514004.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a3_0067275000364-glamor-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-vag4-514004.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a3_0067275000364-glamor-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-vag4-514004.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a4_0067275000364-glamor-back-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-tgg9-302318.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a4_0067275000364-glamor-back-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-tgg9-302318.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a4_0067275000364-glamor-back-right-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-tgg9-302318.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a5_0067275000364-glamor-back-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-1edy-810297.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a5_0067275000364-glamor-back-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-1edy-810297.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a5_0067275000364-glamor-back-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-1edy-810297.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a6_0067275000364-glamor-back-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-caov-402192.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a6_0067275000364-glamor-back-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-caov-402192.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a6_0067275000364-glamor-back-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-caov-402192.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a7_0067275000364-glamor-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-6ijm-499796.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a7_0067275000364-glamor-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-6ijm-499796.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a7_0067275000364-glamor-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-6ijm-499796.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a8_0067275000364-glamor-front-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-444t-218467.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a8_0067275000364-glamor-front-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-444t-218467.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a8_0067275000364-glamor-front-left-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-444t-218467.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a9_0067275000364-glamor-top-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-8dd0-674057.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a9_0067275000364-glamor-top-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-8dd0-674057.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1a9_0067275000364-glamor-top-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-8dd0-674057.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1aa_0067275000364-glamor-bottom-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-c0xh-086442.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1aa_0067275000364-glamor-bottom-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-c0xh-086442.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633e1c6970e8507d5ca5c1aa_0067275000364-glamor-bottom-2022-08-15t13-17-51-iphone-8-plus-quality-90-1-31-0-user-5c4f16e4fc9c91accd101ce4-c0xh-086442.jpg
+ingredients:
+  - >-
+    Ingredients: Organic White Grape Juice Concentrate, Organic Apricots, Apple
+    Pectin, Ascorbic Acid (Vitamin C), Citric Acid.
+additives:
+  - Ascorbic Acid
+  - Citric Acid
+  - Organic White Grape Juice Concentrate
+  - White Grape Juice Concentrate
+  - ' Pectin'
+  - Pectin
+certifications:
+  - name: Certified Non-GMO
+    certifiers:
+      - Non-GMO Project
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+      - '[QAI] Quality Assurance International'
+      - USDA Organic
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 10
+    perServing: 10
+    fullDvp: 90
+    defaultDvpDisplay: '10'
+    perServingDisplay: '10'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 78
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 7
+    perServingDisplay: '7'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0.43
+    perServing: 10
+    fullDvp: 2300
+    defaultDvpDisplay: '0.43'
+    perServingDisplay: '10'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 0
+    fullDvp: 50
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 2.91
+    perServing: 8
+    fullDvp: 275
+    defaultDvpDisplay: '2.9'
+    perServingDisplay: '8'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 1.5
+    perServing: 30
+    fullDvp: 2000
+    defaultDvpDisplay: '1.5'
+    perServingDisplay: '30'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2
+    perServing: 31
+    fullDvp: 1300
+    defaultDvpDisplay: '2'
+    perServingDisplay: '31'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 10
+    perServing: 5
+    fullDvp: 50
+    defaultDvpDisplay: '10'
+    perServingDisplay: '5'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: tbsp
+  servingSizeDisplay: '1'
+  secondaryServingSize: 18
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '18'
+  totalSize: 10
+  totalSizeUom: oz
+  secondaryTotalSize: 283
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 16
+  servingsPerContainerDisplay: '16'
+isAlcoholic: false
+rank: 20528
+related:
+  - name: Apricot Fruit Spread, 10 oz
+    slug: st-dalfour-apricot-fruit-spread-10-oz-b00mn2vq9m
+    brand: St Dalfour
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62e09085a745710b4926eb24_0084380957543-glamor-front-2022-07-06t15-01-22-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-kxo5-924585.jpg
+    store: 10225
+  - name: Organic Organic Strawberry Just Fruit Spread, 10 oz
+    slug: crofters-organic-organic-strawberry-just-fruit-spread-10-oz-b01e4uofo8
+    brand: Crofter's
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f7d059a7db6427b84f038fd_00067275000319-glamor-frontpackageglamor-2020-09-16t16-45-12-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-j6nf-319644.jpg
+    store: 10225

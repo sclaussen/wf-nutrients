@@ -1,0 +1,346 @@
+name: Organic Broccoli Florets
+asin: B077LF2ZMR
+id: '9948246645'
+store: 10225
+detailUri: product/365-by-whole-foods-market-organic-broccoli-florets-b077lf2zmr
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Vegetables
+    slug: fresh-vegetables
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: low-fat
+    name: Low-Fat
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8714279a421661b5f477_00099482466459-c1c1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8714279a421661b5f477_00099482466459-c1c1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8714279a421661b5f477_00099482466459-c1c1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8713ccadb3168eaeef54_00099482466459-c7n1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8713ccadb3168eaeef54_00099482466459-c7n1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8713ccadb3168eaeef54_00099482466459-c7n1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8712c3d159165b029867_00099482466459-l4-1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8712c3d159165b029867_00099482466459-l4-1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fca8712c3d159165b029867_00099482466459-l4-1.jpg
+ingredients:
+  - Organic Broccoli
+certifications:
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+      - Quality Assurance International (QAI)
+nutritionGroup: adult
+nutritionLabelFormat: current
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 1.2
+    perServing: 0.18
+    fullDvp: 15
+    defaultDvpDisplay: '1.2'
+    perServingDisplay: '0.18'
+  - key: vitaminK
+    name: Vitamin K
+    uom: mcg
+    defaultDvp: 55.88
+    perServing: 44.704
+    fullDvp: 80
+    defaultDvpDisplay: '56'
+    perServingDisplay: '45'
+  - key: vitaminE
+    name: Vitamin E
+    uom: IU
+    defaultDvp: 1.7
+    perServing: 0.511
+    fullDvp: 30
+    defaultDvpDisplay: '1.7'
+    perServingDisplay: '0.51'
+  - key: vitaminD
+    name: Vitamin D
+    uom: IU
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 65.41
+    perServing: 39.248
+    fullDvp: 60
+    defaultDvpDisplay: '65'
+    perServingDisplay: '39'
+  - key: vitaminB6
+    name: Vitamin B6
+    uom: mg
+    defaultDvp: 3.85
+    perServing: 0.077
+    fullDvp: 2
+    defaultDvpDisplay: '3.9'
+    perServingDisplay: '0.08'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 6
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: IU
+    defaultDvp: 5.48
+    perServing: 274.12
+    fullDvp: 5000
+    defaultDvpDisplay: '5'
+    perServingDisplay: '274'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 0.25
+    perServing: 0.163
+    fullDvp: 65
+    defaultDvpDisplay: '0.25'
+    perServingDisplay: '0.16'
+  - key: thiamin
+    name: Thiamin
+    uom: mg
+    defaultDvp: 2.07
+    perServing: 0.031
+    fullDvp: 1.5
+    defaultDvpDisplay: '2.1'
+    perServingDisplay: '0.03'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0.748
+    perServingDisplay: '0.748'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0.61
+    perServing: 14.52
+    fullDvp: 2400
+    defaultDvpDisplay: '0.61'
+    perServingDisplay: '15'
+  - key: selenium
+    name: Selenium
+    uom: mcg
+    defaultDvp: 1.57
+    perServing: 1.1
+    fullDvp: 70
+    defaultDvpDisplay: '1.6'
+    perServingDisplay: '1.1'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 0.09
+    perServing: 0.017
+    fullDvp: 20
+    defaultDvpDisplay: '0.09'
+    perServingDisplay: '0.02'
+  - key: riboflavin
+    name: Riboflavin
+    uom: mg
+    defaultDvp: 3
+    perServing: 0.051
+    fullDvp: 1.7
+    defaultDvpDisplay: '3'
+    perServingDisplay: '0.05'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 1.241
+    fullDvp: 50
+    perServingDisplay: '1.241'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 3.97
+    perServing: 139.04
+    fullDvp: 3500
+    defaultDvpDisplay: '4'
+    perServingDisplay: '139'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0.017
+    perServingDisplay: '0.017'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    defaultDvp: 2.9
+    perServing: 29.04
+    fullDvp: 1000
+    defaultDvpDisplay: '2.9'
+    perServingDisplay: '29'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    defaultDvp: 2.52
+    perServing: 0.252
+    fullDvp: 10
+    defaultDvpDisplay: '2.5'
+    perServingDisplay: '0.25'
+  - key: niacin
+    name: Niacin
+    uom: mg
+    defaultDvp: 1.41
+    perServing: 0.281
+    fullDvp: 20
+    defaultDvpDisplay: '1.4'
+    perServingDisplay: '0.28'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 0.005
+    perServingDisplay: '0.005'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    defaultDvp: 4.6
+    perServing: 0.092
+    fullDvp: 2
+    defaultDvpDisplay: '4.6'
+    perServingDisplay: '0.09'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 2.31
+    perServing: 9.24
+    fullDvp: 400
+    defaultDvpDisplay: '2.3'
+    perServingDisplay: '9'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 1.78
+    perServing: 0.321
+    fullDvp: 18
+    defaultDvpDisplay: '1.8'
+    perServingDisplay: '0.32'
+  - key: folicAcid
+    name: Folic Acid
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate
+    uom: mcg
+    defaultDvp: 6.93
+    perServing: 27.72
+    fullDvp: 400
+    defaultDvpDisplay: '7'
+    perServingDisplay: '28'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 4.58
+    perServing: 1.144
+    fullDvp: 25
+    defaultDvpDisplay: '4.6'
+    perServingDisplay: '1.1'
+  - key: copper
+    name: Copper
+    uom: mg
+    defaultDvp: 1.1
+    perServing: 0.022
+    fullDvp: 2
+    defaultDvpDisplay: '1.1'
+    perServingDisplay: '0.02'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0.97
+    perServing: 2.922
+    fullDvp: 300
+    defaultDvpDisplay: '0.97'
+    perServingDisplay: '2.9'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 0.75
+    perServing: 14.96
+    fullDvp: 2000
+    defaultDvpDisplay: '0.75'
+    perServingDisplay: '15'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2.07
+    perServing: 20.68
+    fullDvp: 1000
+    defaultDvpDisplay: '2.1'
+    perServingDisplay: '21'
+servingInfo:
+  servingSize: 0.5
+  servingSizeUom: cup
+  secondaryServingSize: 44
+  secondaryServingSizeUom: g
+  totalSize: 10
+  totalSizeUom: oz
+  secondaryTotalSize: 283
+  secondaryTotalSizeUom: g
+  servingsPerContainerDisplay: Varies
+isAlcoholic: false
+rank: 114
+related:
+  - name: Broccoli Florets
+    slug: 365-by-whole-foods-market-broccoli-florets-b08b4bvvgz
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fc8fb09c3d159165b0282ae_00099482497613-glamor-frontpackageglamor-2020-12-01t20-09-18-iphone-x-quality-90-1-21-8-user-5984ad42a967f880524de2c4-6u6x-387594.jpg
+    store: 10225
+  - name: Produce - Packaged Vegetables, Broccoli - Florets
+    slug: >-
+      365-by-whole-foods-market-produce-packaged-vegetables-broccoli-florets-b077l5rxjy
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fbd9655fbbe3865abc63303_00099482466442-c1c1.jpg
+    store: 10225

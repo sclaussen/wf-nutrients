@@ -1,0 +1,359 @@
+name: Organic Baby Arugula
+asin: B09ZHX8Y9V
+id: '9948246674'
+store: 10225
+detailUri: product/whole-foods-market-organic-baby-arugula-b09zhx8y9v
+brand:
+  name: Whole Foods Market
+  slug: whole-foods-market
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Vegetables
+    slug: fresh-vegetables
+diets:
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8690_0099482466749-glamor-front-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-80c9-925017.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8690_0099482466749-glamor-front-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-80c9-925017.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8690_0099482466749-glamor-front-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-80c9-925017.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8691_0099482466749-glamor-right-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-8wgw-601465.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8691_0099482466749-glamor-right-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-8wgw-601465.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8691_0099482466749-glamor-right-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-8wgw-601465.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8692_0099482466749-glamor-back-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-1nej-507678.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8692_0099482466749-glamor-back-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-1nej-507678.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8692_0099482466749-glamor-back-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-1nej-507678.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8693_0099482466749-glamor-left-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-v76j-483685.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8693_0099482466749-glamor-left-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-v76j-483685.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8693_0099482466749-glamor-left-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-v76j-483685.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8694_0099482466749-glamor-top-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-cb38-962996.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8694_0099482466749-glamor-top-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-cb38-962996.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8694_0099482466749-glamor-top-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-cb38-962996.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8695_0099482466749-glamor-bottom-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-y7r0-714745.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8695_0099482466749-glamor-bottom-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-y7r0-714745.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63e4575bdf86a60bd86a8695_0099482466749-glamor-bottom-2023-01-11t18-00-02-iphone-x-quality-90-1-33-0-user-5984ad42a967f880524de2c4-y7r0-714745.jpg
+ingredients:
+  - 'Ingredients: Organic Arugula.'
+certifications:
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+      - Quality Assurance International (QAI)
+      - '[QAI] Quality Assurance International'
+nutritionGroup: adult
+nutritionLabelFormat: current
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 0.33
+    perServing: 0.05
+    fullDvp: 15
+    defaultDvpDisplay: '0.33'
+    perServingDisplay: '0.05'
+  - key: vitaminK
+    name: Vitamin K
+    uom: mcg
+    defaultDvp: 13.75
+    perServing: 11
+    fullDvp: 80
+    defaultDvpDisplay: '14'
+    perServingDisplay: '11'
+  - key: vitaminE
+    name: Vitamin E
+    uom: IU
+    defaultDvp: 0.2
+    perServing: 0.06
+    fullDvp: 30
+    defaultDvpDisplay: '0.2'
+    perServingDisplay: '0.06'
+  - key: vitaminD
+    name: Vitamin D
+    uom: IU
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 2.5
+    perServing: 1.5
+    fullDvp: 60
+    defaultDvpDisplay: '2.5'
+    perServingDisplay: '1.5'
+  - key: vitaminB6
+    name: Vitamin B6
+    uom: mg
+    defaultDvp: 0.5
+    perServing: 0.01
+    fullDvp: 2
+    defaultDvpDisplay: '0.5'
+    perServingDisplay: '0.01'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 6
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: IU
+    defaultDvp: 4.74
+    perServing: 237
+    fullDvp: 5000
+    defaultDvpDisplay: '4.7'
+    perServingDisplay: '237'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 0.11
+    perServing: 0.07
+    fullDvp: 65
+    defaultDvpDisplay: '0.11'
+    perServingDisplay: '0.07'
+  - key: thiamin
+    name: Thiamin
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 1.5
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0.205
+    perServingDisplay: '0.205'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0.11
+    perServing: 2.7
+    fullDvp: 2400
+    defaultDvpDisplay: '0.11'
+    perServingDisplay: '2.7'
+  - key: selenium
+    name: Selenium
+    uom: mcg
+    defaultDvp: 0.04
+    perServing: 0.03
+    fullDvp: 70
+    defaultDvpDisplay: '0.04'
+    perServingDisplay: '0.03'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 0.05
+    perServing: 0.01
+    fullDvp: 20
+    defaultDvpDisplay: '0.05'
+    perServingDisplay: '0.01'
+  - key: riboflavin
+    name: Riboflavin
+    uom: mg
+    defaultDvp: 0.59
+    perServing: 0.01
+    fullDvp: 1.7
+    defaultDvpDisplay: '0.59'
+    perServingDisplay: '0.01'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 0.258
+    fullDvp: 50
+    perServingDisplay: '0.258'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 1.06
+    perServing: 37
+    fullDvp: 3500
+    defaultDvpDisplay: '1.1'
+    perServingDisplay: '37'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0.032
+    perServingDisplay: '0.032'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    defaultDvp: 0.5
+    perServing: 5
+    fullDvp: 1000
+    defaultDvpDisplay: '0.5'
+    perServingDisplay: '5'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    defaultDvp: 0.4
+    perServing: 0.04
+    fullDvp: 10
+    defaultDvpDisplay: '0.4'
+    perServingDisplay: '0.04'
+  - key: niacin
+    name: Niacin
+    uom: mg
+    defaultDvp: 0.15
+    perServing: 0.03
+    fullDvp: 20
+    defaultDvpDisplay: '0.15'
+    perServingDisplay: '0.03'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 0.005
+    perServingDisplay: '0.005'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    defaultDvp: 1.5
+    perServing: 0.03
+    fullDvp: 2
+    defaultDvpDisplay: '1.5'
+    perServingDisplay: '0.03'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 1.18
+    perServing: 4.7
+    fullDvp: 400
+    defaultDvpDisplay: '1.2'
+    perServingDisplay: '4.7'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 0.83
+    perServing: 0.15
+    fullDvp: 18
+    defaultDvpDisplay: '0.83'
+    perServingDisplay: '0.15'
+  - key: folicAcid
+    name: Folic Acid
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate
+    uom: mcg
+    defaultDvp: 2.5
+    perServing: 10
+    fullDvp: 400
+    defaultDvpDisplay: '2.5'
+    perServingDisplay: '10'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0.64
+    perServing: 0.16
+    fullDvp: 25
+    defaultDvpDisplay: '0.64'
+    perServingDisplay: '0.16'
+  - key: copper
+    name: Copper
+    uom: mg
+    defaultDvp: 0.5
+    perServing: 0.01
+    fullDvp: 2
+    defaultDvpDisplay: '0.5'
+    perServingDisplay: '0.01'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0.12
+    perServing: 0.37
+    fullDvp: 300
+    defaultDvpDisplay: '0.12'
+    perServingDisplay: '0.37'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 0.13
+    perServing: 2.5
+    fullDvp: 2000
+    defaultDvpDisplay: '0.13'
+    perServingDisplay: '2.5'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 1.6
+    perServing: 16
+    fullDvp: 1000
+    defaultDvpDisplay: '1.6'
+    perServingDisplay: '16'
+servingInfo:
+  servingSize: 0.5
+  servingSizeUom: cup
+  secondaryServingSize: 10
+  secondaryServingSizeUom: gram
+  totalSize: 5
+  totalSizeUom: oz
+  secondaryTotalSize: 142
+  secondaryTotalSizeUom: g
+isAlcoholic: false
+rank: 138
+related:
+  - name: Organic Arugula Baby Spinach Salad
+    slug: whole-foods-market-organic-arugula-baby-spinach-salad-b074vd6r4r
+    brand: Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6529df4c7a73610b93d9a0b3_2023-10-14_00-22-37_front.main.jpg
+    store: 10225
+  - name: Micro Arugula Microgreens
+    slug: aerofarms-micro-arugula-microgreens-b098y8wbzj
+    brand: AeroFarms
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/633c9b579936ea8eed2b5706_2022-10-04_20-45-16_front.main.jpg
+    store: 10225

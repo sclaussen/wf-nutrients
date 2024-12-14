@@ -1,0 +1,137 @@
+name: Organic Refined Coconut Oil, 14 fl oz
+asin: B074H5BV9Y
+id: '9948243854'
+store: 10225
+detailUri: product/365-by-whole-foods-market-organic-refined-coconut-oil-b074h5bv9y
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Pantry Essentials
+  slug: pantry-essentials
+  childCategory:
+    name: Condiments u0026 Dressings
+    slug: condiments-dressings
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher by Star-K
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233c24b88392d739ced795_2023-03-28_19-12-56_front.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233c24b88392d739ced795_2023-03-28_19-12-56_front.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233c24b88392d739ced795_2023-03-28_19-12-56_front.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233c0eb883924ce5ced78e_2023-03-28_19-12-36_back.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233c0eb883924ce5ced78e_2023-03-28_19-12-36_back.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64233c0eb883924ce5ced78e_2023-03-28_19-12-36_back.main.jpg
+ingredients:
+  - 'Ingredients: Organic Highly Refined Coconut Oil.'
+certifications:
+  - name: Certified Kosher
+    certifiers:
+      - Star-K
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+      - '[QAI] Quality Assurance International'
+      - '[QAI] Quality Assurance International'
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 17.95
+    perServing: 14
+    fullDvp: 78
+    defaultDvpDisplay: '18'
+    perServingDisplay: '14'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 65
+    perServing: 13
+    fullDvp: 20
+    defaultDvpDisplay: '65'
+    perServingDisplay: '13'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 0
+    fullDvp: 50
+    perServingDisplay: '0'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 1
+    perServingDisplay: '1'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 6.5
+    perServing: 130
+    fullDvp: 2000
+    defaultDvpDisplay: '7'
+    perServingDisplay: '130'
+servingInfo:
+  totalSize: 14
+  totalSizeUom: fl oz
+  secondaryTotalSize: 414
+  secondaryTotalSizeUom: ml
+isAlcoholic: false
+rank: 2337
+related:
+  - name: Organic Refined Coconut Oil, 23 fl oz
+    slug: nutiva-organic-refined-coconut-oil-23-fl-oz-b00my2yzqc
+    brand: Nutiva
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f49acf9168eaebab4db7757_00692752105371-glamor-frontpackageglamor-2020-08-24t16-47-00-iphone-x-quality-90-1-21-1-user-5984ad42a967f880524de2c4-ctw0-766136.jpg
+    store: 10225
+  - name: Coconut Spray Oil, 6 oz
+    slug: spectrum-coconut-spray-oil-6-oz-b007hd4kiq
+    brand: Spectrum
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b7b6027ac6613631011bb_dld-0022506138070-glamor-front-2022-02-24t19-00-59-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-fwyn-263019-1649113951645.jpg
+    store: 10225

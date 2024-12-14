@@ -1,0 +1,331 @@
+name: Organic White Mushroom
+asin: B07HFGVR6Q
+id: '94645'
+store: 10225
+detailUri: product/produce-organic-cello-mushrooms-b07hfgvr6q
+brand:
+  name: PRODUCE
+  slug: produce
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Vegetables
+    slug: fresh-vegetables
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: organic
+    name: Organic
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/56da4e387c3b931100975db6.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/56da4e387c3b931100975db6.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/56da4e387c3b931100975db6.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/56da4e3e7c3b931100975db7.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/56da4e3e7c3b931100975db7.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/56da4e3e7c3b931100975db7.jpg
+ingredients:
+  - Organic Cello Mushroom
+certifications:
+  - name: Certified Organic
+    certifiers:
+      - USDA Organic
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.18
+    fullDvp: 11
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.18'
+  - key: vitaminK
+    name: Vitamin K
+    uom: µg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 120
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminE
+    name: Vitamin E
+    uom: IU
+    defaultDvp: 0
+    perServing: 0.005
+    fullDvp: 15
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.005'
+  - key: vitaminD
+    name: Vitamin D
+    uom: IU
+    defaultDvp: 15
+    perServing: 2.5
+    fullDvp: 20
+    defaultDvpDisplay: '15'
+    perServingDisplay: '2.5'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 0
+    perServing: 0.735
+    fullDvp: 90
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.735'
+  - key: vitaminB6
+    name: Vitamin B6
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.04
+    fullDvp: 1.7
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.04'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: µg
+    defaultDvp: 0
+    perServing: 0.014
+    fullDvp: 2.4
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.014'
+  - key: vitaminA
+    name: Vitamin A
+    uom: IU
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 900
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 0.15
+    perServing: 0.12
+    fullDvp: 78
+    defaultDvpDisplay: '0.15'
+    perServingDisplay: '0.12'
+  - key: thiamin
+    name: Thiamin
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.03
+    fullDvp: 1.2
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.03'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0.693
+    perServingDisplay: '0.693'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0.08
+    perServing: 1.8
+    fullDvp: 2300
+    defaultDvpDisplay: '0.08'
+    perServingDisplay: '1.8'
+  - key: selenium
+    name: Selenium
+    uom: µg
+    defaultDvp: 6
+    perServing: 3.3
+    fullDvp: 55
+    defaultDvpDisplay: '6'
+    perServingDisplay: '3.3'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 0.1
+    perServing: 0.02
+    fullDvp: 20
+    defaultDvpDisplay: '0.1'
+    perServingDisplay: '0.02'
+  - key: riboflavin
+    name: Riboflavin
+    uom: mg
+    defaultDvp: 10
+    perServing: 0.14
+    fullDvp: 1.3
+    defaultDvpDisplay: '10'
+    perServingDisplay: '0.14'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 1.081
+    fullDvp: 50
+    perServingDisplay: '1.081'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 2
+    perServing: 111
+    fullDvp: 4700
+    defaultDvpDisplay: '2'
+    perServingDisplay: '111'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 0.056
+    perServingDisplay: '0.056'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    defaultDvp: 2
+    perServing: 30
+    fullDvp: 1250
+    defaultDvpDisplay: '2'
+    perServingDisplay: '30'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    defaultDvp: 10
+    perServing: 0.52
+    fullDvp: 5
+    defaultDvpDisplay: '10'
+    perServingDisplay: '0.52'
+  - key: niacin
+    name: Niacin
+    uom: mg
+    defaultDvp: 8
+    perServing: 1.3
+    fullDvp: 16
+    defaultDvpDisplay: '8'
+    perServingDisplay: '1.3'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    defaultDvp: 0
+    perServing: 0.016
+    fullDvp: 2.3
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.016'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 0
+    perServing: 3.15
+    fullDvp: 420
+    defaultDvpDisplay: '0'
+    perServingDisplay: '3.15'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 0
+    perServing: 0.175
+    fullDvp: 18
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0.175'
+  - key: folicAcid
+    name: Folic Acid
+    uom: µg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate
+    uom: µg
+    defaultDvp: 2
+    perServing: 6
+    fullDvp: 400
+    defaultDvpDisplay: '2'
+    perServingDisplay: '6'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 1.25
+    perServing: 0.35
+    fullDvp: 28
+    defaultDvpDisplay: '1.3'
+    perServingDisplay: '0.35'
+  - key: fatCalories
+    name: Fat Calories
+    uom: calories
+    perServing: 2.97
+    perServingDisplay: '2.97'
+  - key: copper
+    name: Copper
+    uom: mg
+    defaultDvp: 10
+    perServing: 0.11
+    fullDvp: 0.9
+    defaultDvpDisplay: '10'
+    perServingDisplay: '0.11'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0.4
+    perServing: 1.1
+    fullDvp: 275
+    defaultDvpDisplay: '0.4'
+    perServingDisplay: '1.1'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 0.4
+    perServing: 8
+    fullDvp: 2000
+    defaultDvpDisplay: '0.4'
+    perServingDisplay: '8'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 0
+    perServing: 1.05
+    fullDvp: 1300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '1.05'
+servingInfo:
+  servingSize: 0.5
+  servingSizeUom: cup (raw)
+  secondaryServingSize: 35
+  secondaryServingSizeUom: g
+  totalSize: 1
+  totalSizeUom: pound
+  servingsPerContainerDisplay: Varies
+isAlcoholic: false
+rank: 29547
+related: []

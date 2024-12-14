@@ -1,0 +1,362 @@
+name: Cauliflower Florets
+asin: B077L7S52W
+id: '9948246647'
+store: 10225
+detailUri: product/365-by-whole-foods-market-cauliflower-florets-b077l7s52w
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Produce
+  slug: produce
+  childCategory:
+    name: Fresh Vegetables
+    slug: fresh-vegetables
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: engine-2
+    name: Engine 2
+  - slug: gluten-free
+    name: Gluten-Free
+  - slug: keto-friendly
+    name: Keto-Friendly
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34429c32f531c3f36336e_00099482466473-c1n1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34429c32f531c3f36336e_00099482466473-c1n1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff34429c32f531c3f36336e_00099482466473-c1n1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442ac32f531c3f363370_00099482466473-c2n1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442ac32f531c3f363370_00099482466473-c2n1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442ac32f531c3f363370_00099482466473-c2n1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442ac32f531c3f363371_00099482466473-c3n1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442ac32f531c3f363371_00099482466473-c3n1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442ac32f531c3f363371_00099482466473-c3n1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442bc32f531c3f363372_00099482466473-c7n1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442bc32f531c3f363372_00099482466473-c7n1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442bc32f531c3f363372_00099482466473-c7n1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442bc32f531c3f363373_00099482466473-c8n1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442bc32f531c3f363373_00099482466473-c8n1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442bc32f531c3f363373_00099482466473-c8n1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442cc32f531c3f363374_00099482466473-c9n1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442cc32f531c3f363374_00099482466473-c9n1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442cc32f531c3f363374_00099482466473-c9n1.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442dc32f531c3f363376_00099482466473-l4-1.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442dc32f531c3f363376_00099482466473-l4-1.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ff3442dc32f531c3f363376_00099482466473-l4-1.jpg
+ingredients:
+  - 'Ingredients: Cauliflower'
+certifications:
+  - name: Certified Non-GMO
+    certifiers:
+      - The Non GMO Project
+nutritionGroup: adult
+nutritionLabelFormat: current
+nutritionElements:
+  - key: zinc
+    name: Zinc
+    uom: mg
+    defaultDvp: 1.93
+    perServing: 0.29
+    fullDvp: 15
+    defaultDvpDisplay: '1.9'
+    perServingDisplay: '0.29'
+  - key: vitaminK
+    name: Vitamin K
+    uom: mcg
+    defaultDvp: 21.25
+    perServing: 16.8
+    fullDvp: 80
+    defaultDvpDisplay: '21'
+    perServingDisplay: '17'
+  - key: vitaminE
+    name: Vitamin E
+    uom: IU
+    defaultDvp: 0.43
+    perServing: 0.13
+    fullDvp: 30
+    defaultDvpDisplay: '0.43'
+    perServingDisplay: '0.13'
+  - key: vitaminD
+    name: Vitamin D
+    uom: IU
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminC
+    name: Vitamin C
+    uom: mg
+    defaultDvp: 86.67
+    perServing: 52.2
+    fullDvp: 60
+    defaultDvpDisplay: '87'
+    perServingDisplay: '52'
+  - key: vitaminB6
+    name: Pyridoxine (Vitamin B6)
+    uom: mg
+    defaultDvp: 10
+    perServing: 0.2
+    fullDvp: 2
+    defaultDvpDisplay: '10'
+    perServingDisplay: '0.2'
+  - key: vitaminB12
+    name: Vitamin B12
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 6
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: vitaminA
+    name: Vitamin A
+    uom: IU
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 5000
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 0.46
+    perServing: 0.3
+    fullDvp: 65
+    defaultDvpDisplay: '0.46'
+    perServingDisplay: '0.3'
+  - key: thiamin
+    name: Thiamine (Vitamin B1)
+    uom: mg
+    defaultDvp: 3.33
+    perServing: 0.05
+    fullDvp: 1.5
+    defaultDvpDisplay: '3.3'
+    perServingDisplay: '0.05'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServingDisplay: '2.044'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 1.33
+    perServing: 31.2
+    fullDvp: 2400
+    defaultDvpDisplay: '1.3'
+    perServingDisplay: '32'
+  - key: selenium
+    name: Selenium
+    uom: mcg
+    defaultDvp: 0.91
+    perServing: 0.64
+    fullDvp: 70
+    defaultDvpDisplay: '0.91'
+    perServingDisplay: '0.64'
+  - key: saturatedFat
+    name: Saturated Fat
+    uom: g
+    defaultDvp: 0.7
+    perServing: 0.14
+    fullDvp: 20
+    defaultDvpDisplay: '0.7'
+    perServingDisplay: '0.14'
+  - key: riboflavin
+    name: Riboflavin (Vitamin B2)
+    uom: mg
+    defaultDvp: 3.53
+    perServing: 0.06
+    fullDvp: 1.7
+    defaultDvpDisplay: '3.5'
+    perServingDisplay: '0.06'
+  - key: protein
+    name: Protein
+    uom: g
+    defaultDvp: 4.11
+    perServing: 0
+    fullDvp: 50
+    perServingDisplay: '2.054'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 9.14
+    perServing: 315
+    fullDvp: 3500
+    defaultDvpDisplay: '9'
+    perServingDisplay: '320'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServingDisplay: '0.033'
+  - key: phosphorus
+    name: Phosphorus
+    uom: mg
+    defaultDvp: 4.7
+    perServing: 47
+    fullDvp: 1000
+    defaultDvpDisplay: '4.7'
+    perServingDisplay: '47'
+  - key: pantothenicAcid
+    name: Pantothenic Acid
+    uom: mg
+    defaultDvp: 7.1
+    perServing: 0.7
+    fullDvp: 10
+    defaultDvpDisplay: '7'
+    perServingDisplay: '0.71'
+  - key: niacin
+    name: Niacin (Vitamin B3)
+    uom: mg
+    defaultDvp: 2.7
+    perServing: 0.54
+    fullDvp: 20
+    defaultDvpDisplay: '2.7'
+    perServingDisplay: '0.54'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServingDisplay: '0.036'
+  - key: manganese
+    name: Manganese
+    uom: mg
+    defaultDvp: 8.5
+    perServing: 0.18
+    fullDvp: 2
+    defaultDvpDisplay: '9'
+    perServingDisplay: '0.17'
+  - key: magnesium
+    name: Magnesium
+    uom: mg
+    defaultDvp: 4
+    perServing: 16
+    fullDvp: 400
+    defaultDvpDisplay: '4'
+    perServingDisplay: '16'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 2.5
+    perServing: 0.45
+    fullDvp: 18
+    defaultDvpDisplay: '2.5'
+    perServingDisplay: '0.45'
+  - key: folicAcid
+    name: Folic Acid
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 400
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: folate
+    name: Folate (Folacin)
+    uom: mcg
+    defaultDvp: 15.25
+    perServing: 60
+    fullDvp: 400
+    defaultDvpDisplay: '15'
+    perServingDisplay: '61'
+  - key: fiber
+    name: Dietary Fiber
+    uom: g
+    defaultDvp: 8.4
+    perServing: 2
+    fullDvp: 25
+    defaultDvpDisplay: '8'
+    perServingDisplay: '2.1'
+  - key: copper
+    name: Copper
+    uom: mg
+    defaultDvp: 2
+    perServing: 0.04
+    fullDvp: 2
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.04'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Total Carbohydrate
+    uom: g
+    defaultDvp: 1.67
+    perServing: 5.1
+    fullDvp: 300
+    defaultDvpDisplay: '1.7'
+    perServingDisplay: '5'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 1.35
+    perServing: 28
+    fullDvp: 2000
+    defaultDvpDisplay: '1.4'
+    perServingDisplay: '27'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 2.4
+    perServing: 24
+    fullDvp: 1000
+    defaultDvpDisplay: '2.4'
+    perServingDisplay: '24'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: cup
+  servingSizeDisplay: '1'
+  secondaryServingSize: 107
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '107'
+  totalSize: 12
+  totalSizeUom: oz
+  secondaryTotalSize: 340
+  secondaryTotalSizeUom: g
+isAlcoholic: false
+rank: 754
+related:
+  - name: Organic Cauliflower Florets
+    slug: 365-by-whole-foods-market-organic-cauliflower-florets-b077l639wx
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62d06fe4d3bfbd2fbc6d0a43_0099482466480-glamor-front-2021-12-29t13-23-32-iphone-7-quality-90-1-26-2-user-5c4f16e4fc9c91accd101ce4-u6oy-018405.jpg
+    store: 10225
+  - name: Broccoli Florets
+    slug: 365-by-whole-foods-market-broccoli-florets-b08b4bvvgz
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fc8fb09c3d159165b0282ae_00099482497613-glamor-frontpackageglamor-2020-12-01t20-09-18-iphone-x-quality-90-1-21-8-user-5984ad42a967f880524de2c4-6u6x-387594.jpg
+    store: 10225

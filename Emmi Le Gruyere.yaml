@@ -1,0 +1,210 @@
+name: Le Gruyère, 6 oz
+asin: B07813QZDC
+id: '5676200056'
+store: 10225
+detailUri: product/emmi-le-gruyere-b07813qzdc
+brand:
+  name: Emmi
+  slug: emmi
+categories:
+  name: Dairy u0026 Eggs
+  slug: dairy-eggs
+  childCategory:
+    name: Cheese
+    slug: cheese
+diets:
+  - slug: sugar-conscious
+    name: Sugar-Conscious
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcbfae256165ecd5744_0056762000567-glamor-front-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-q40z-331716.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcbfae256165ecd5744_0056762000567-glamor-front-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-q40z-331716.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcbfae256165ecd5744_0056762000567-glamor-front-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-q40z-331716.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcbfae256165ecd5745_0056762000567-glamor-back-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-4l6o-623403.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcbfae256165ecd5745_0056762000567-glamor-back-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-4l6o-623403.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcbfae256165ecd5745_0056762000567-glamor-back-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-4l6o-623403.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5741_0056762000567-glamor-bottom-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-o9nx-710378.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5741_0056762000567-glamor-bottom-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-o9nx-710378.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5741_0056762000567-glamor-bottom-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-o9nx-710378.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5743_0056762000567-glamor-right-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-nzk8-109261.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5743_0056762000567-glamor-right-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-nzk8-109261.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5743_0056762000567-glamor-right-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-nzk8-109261.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5742_0056762000567-glamor-top-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-569h-063564.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5742_0056762000567-glamor-top-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-569h-063564.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5742_0056762000567-glamor-top-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-569h-063564.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5740_0056762000567-glamor-left-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-dymh-037157.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5740_0056762000567-glamor-left-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-dymh-037157.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62ebcbcafae256165ecd5740_0056762000567-glamor-left-2022-07-11t15-07-50-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-dymh-037157.jpg
+ingredients:
+  - 'Ingredients: Cultured Milk, Salt, Enzymes.'
+additives:
+  - Enzymes
+  - Salt
+allergens:
+  - Milk and Dairy
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 2
+    perServing: 0.4
+    fullDvp: 20
+    defaultDvpDisplay: '2'
+    perServingDisplay: '0.4'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 11.54
+    perServing: 9
+    fullDvp: 78
+    defaultDvpDisplay: '12'
+    perServingDisplay: '9'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 7.39
+    perServing: 170
+    fullDvp: 2300
+    defaultDvpDisplay: '7'
+    perServingDisplay: '170'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 25
+    perServing: 5
+    fullDvp: 20
+    defaultDvpDisplay: '25'
+    perServingDisplay: '5'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 8
+    fullDvp: 50
+    perServingDisplay: '8'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 4700
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 18
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 28
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 8.33
+    perServing: 25
+    fullDvp: 300
+    defaultDvpDisplay: '8'
+    perServingDisplay: '25'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 5.5
+    perServing: 110
+    fullDvp: 2000
+    defaultDvpDisplay: '6'
+    perServingDisplay: '110'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 20
+    perServing: 260
+    fullDvp: 1300
+    defaultDvpDisplay: '20'
+    perServingDisplay: '260'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: oz
+  servingSizeDisplay: '1'
+  secondaryServingSize: 28
+  secondaryServingSizeUom: g
+  secondaryServingSizeDisplay: '28'
+  totalSize: 6
+  totalSizeUom: oz
+  secondaryTotalSize: 170
+  secondaryTotalSizeUom: g
+  servingsPerContainer: 6
+  servingsPerContainerDisplay: '6'
+isAlcoholic: false
+rank: 751
+related:
+  - name: Provolone Cheese
+    slug: 365-by-whole-foods-market-provolone-cheese-b07g5swtrn
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/61391bc8c3699b1ba1059648_00229827000004-2020-cen-ecommerce-pfds-provolonecheese.jpg
+    store: 10225
+  - name: Wensleydale u0026 Blueberries Cheese
+    slug: somerdale-wensleydale-blueberries-cheese-b0787y5pm3
+    brand: Somerdale
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f528cffdfb9b29be100679a_00039040067966-glamor-frontpackageglamor-photos-iphone-quality-90-172-user-56d73826ffee32da36626d9d-31svjpg-829855
+    store: 10225

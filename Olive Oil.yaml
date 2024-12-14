@@ -1,0 +1,219 @@
+name: Extra Virgin Olive Oil - Cold Processed, Mediterranean Blend, 33.8 fl oz
+asin: B074J9RL65
+id: '9948240006'
+store: 10225
+detailUri: >-
+  product/365-by-whole-foods-market-extra-virgin-olive-oil-cold-processed-mediterranean-blend-b074j9rl65
+brand:
+  name: 365 by Whole Foods Market
+  slug: 365-by-whole-foods-market
+categories:
+  name: Pantry Essentials
+  slug: pantry-essentials
+  childCategory:
+    name: Condiments u0026 Dressings
+    slug: condiments-dressings
+diets:
+  - slug: dairy-free
+    name: Dairy-Free
+  - slug: kosher
+    name: Kosher
+    disclosures:
+      - info: Certified Kosher (n/a) by Orthodox Union (OU)
+  - slug: paleo-friendly
+    name: Paleo-Friendly
+  - slug: vegan
+    name: Vegan
+  - slug: vegetarian
+    name: Vegetarian
+  - slug: whole-foods-diet
+    name: Whole Foods Diet
+  - slug: keto-friendly
+    name: Keto-Friendly
+images:
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64245d87b04dffe827df078b_2023-03-29_15-47-39_front.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64245d87b04dffe827df078b_2023-03-29_15-47-39_front.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64245d87b04dffe827df078b_2023-03-29_15-47-39_front.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64245d9bb04dff2439df0793_2023-03-29_15-47-59_back.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64245d9bb04dff2439df0793_2023-03-29_15-47-59_back.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64245d9bb04dff2439df0793_2023-03-29_15-47-59_back.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f70d443d55b99b174a3c8b8_2023-03-12_21-04-26_ingredients.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f70d443d55b99b174a3c8b8_2023-03-12_21-04-26_ingredients.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f70d443d55b99b174a3c8b8_2023-03-12_21-04-26_ingredients.main.jpg
+  - thumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f70d443d55b99b174a3c8b6_2023-03-12_21-04-35_factPanel.main.jpg
+    image: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f70d443d55b99b174a3c8b6_2023-03-12_21-04-35_factPanel.main.jpg
+    image2x: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f70d443d55b99b174a3c8b6_2023-03-12_21-04-35_factPanel.main.jpg
+ingredients:
+  - 'Ingredients: Extra Virgin Olive Oil'
+certifications:
+  - name: Certified Non-GMO
+    certifiers:
+      - The Non GMO Project
+  - name: Certified Kosher
+    certifiers:
+      - Orthodox Union (OU)
+nutritionGroup: adult
+nutritionLabelFormat: future
+nutritionElements:
+  - key: vitaminD
+    name: Vitamin D
+    uom: mcg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 20
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: transFat
+    name: Trans Fat
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: totalFat
+    name: Total Fat
+    uom: g
+    defaultDvp: 17.95
+    perServing: 14
+    fullDvp: 78
+    defaultDvpDisplay: '18'
+    perServingDisplay: '14'
+  - key: sugar
+    name: Sugars
+    uom: g
+    perServing: 0
+    perServingDisplay: '0'
+  - key: sodium
+    name: Sodium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 2300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: saturatedFat
+    name: Sat Fat
+    uom: g
+    defaultDvp: 10
+    perServing: 2
+    fullDvp: 20
+    defaultDvpDisplay: '10'
+    perServingDisplay: '2'
+  - key: protein
+    name: Protein
+    uom: g
+    perServing: 0
+    fullDvp: 50
+    perServingDisplay: '0'
+  - key: potassium
+    name: Potassium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 4700
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: polyunsaturatedFat
+    name: Polyunsaturated Fat
+    uom: g
+    perServing: 1.5
+    perServingDisplay: '1.5'
+  - key: monounsaturatedFat
+    name: Monounsaturated Fat
+    uom: g
+    perServing: 10
+    perServingDisplay: '10'
+  - key: iron
+    name: Iron
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 18
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: fiber
+    name: Fiber
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 28
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: cholesterol
+    name: Cholesterol
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: carbohydrates
+    name: Carbohydrates
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 275
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: calories
+    name: Calories
+    uom: calories
+    defaultDvp: 6
+    perServing: 120
+    fullDvp: 2000
+    defaultDvpDisplay: '6'
+    perServingDisplay: '120'
+  - key: calcium
+    name: Calcium
+    uom: mg
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 1300
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+  - key: addedSugar
+    name: Added Sugar
+    uom: g
+    defaultDvp: 0
+    perServing: 0
+    fullDvp: 50
+    defaultDvpDisplay: '0'
+    perServingDisplay: '0'
+servingInfo:
+  servingSize: 1
+  servingSizeUom: tbsp
+  secondaryServingSize: 15
+  secondaryServingSizeUom: ml
+  totalSize: 33.8
+  totalSizeUom: fl oz
+  secondaryTotalSize: 1
+  secondaryTotalSizeUom: l
+  servingsPerContainer: 67
+  servingsPerContainerDisplay: '67'
+isAlcoholic: false
+rank: 159
+related:
+  - name: Organic Extra Virgin Olive Oil - Cold Processed, Mediterranean, 33.8 fl oz
+    slug: >-
+      365-by-whole-foods-market-organic-extra-virgin-olive-oil-cold-processed-mediterranean-338-fl-oz-b074h5j9fy
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/642452b9b04dffed5ddf0364_2023-03-29_15-01-35_front.main.jpg
+    store: 10225
+  - name: Cold Processed Italian Extra Virgin Olive Oil, 33.8 fl oz
+    slug: >-
+      365-by-whole-foods-market-cold-processed-italian-extra-virgin-olive-oil-338-fl-oz-b074j5l82n
+    brand: 365 by Whole Foods Market
+    imageThumbnail: >-
+      https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64e07c9bcf893060fbb7ae30_0099482422264-glamor-front-2023-08-18t13-40-39-iphone-x-quality-90-1-34-1-user-62007be7ec32e60fa58d2f55-xwke-516287.jpg
+    store: 10225
